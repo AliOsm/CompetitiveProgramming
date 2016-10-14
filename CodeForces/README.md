@@ -1,6 +1,7 @@
 # Problems links
 
 - [21A. Jabber ID](http://codeforces.com/problemset/problem/21/A)
+- [21B. Intersection](http://codeforces.com/problemset/problem/21/B)
 - [25A. IQ test](http://codeforces.com/problemset/problem/25/A)
 - [41A. Translation](http://codeforces.com/problemset/problem/41/A)
 - [58A. Chat room](http://codeforces.com/problemset/problem/58/A)
