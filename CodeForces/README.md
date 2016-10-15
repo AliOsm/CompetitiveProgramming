@@ -44,3 +44,5 @@
 - [723B. Text Document Analysis](http://codeforces.com/problemset/problem/723/B)
 - [724A. Checking the Calendar](http://codeforces.com/problemset/problem/724/A)
 - [724B. Batch Sort](http://codeforces.com/problemset/problem/724/B)
+- [727A. Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)
+- [727B. Bill Total Value](http://codeforces.com/problemset/problem/727/B)
