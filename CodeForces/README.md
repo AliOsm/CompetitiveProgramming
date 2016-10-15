@@ -39,6 +39,7 @@
 - [706A. Beru-taxi](http://codeforces.com/problemset/problem/706/A)
 - [706B. Interesting drink](http://codeforces.com/problemset/problem/706/B)
 - [722A. Broken Clock](http://codeforces.com/problemset/problem/722/A)
+- [721A. One-dimensional Japanese Crossword](http://codeforces.com/problemset/problem/721/A)
 - [723A. The New Year - Meeting Friends](http://codeforces.com/problemset/problem/723/A)
 - [723B. Text Document Analysis](http://codeforces.com/problemset/problem/723/B)
 - [724A. Checking the Calendar](http://codeforces.com/problemset/problem/724/A)
