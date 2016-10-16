@@ -49,3 +49,5 @@
 - [724B. Batch Sort](http://codeforces.com/problemset/problem/724/B)
 - [727A. Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)
 - [727B. Bill Total Value](http://codeforces.com/problemset/problem/727/B)
+- [731A. Night at the Museum](http://codeforces.com/problemset/problem/731/A)
+- [731B. Coupons and Discounts](http://codeforces.com/problemset/problem/731/B)
