@@ -51,3 +51,6 @@
 - [727B. Bill Total Value](http://codeforces.com/problemset/problem/727/B)
 - [731A. Night at the Museum](http://codeforces.com/problemset/problem/731/A)
 - [731B. Coupons and Discounts](http://codeforces.com/problemset/problem/731/B)
+- [732A. Buy a Shovel](http://codeforces.com/problemset/problem/732/A)
+- [732B. Cormen — The Best Friend Of a Man](http://codeforces.com/problemset/problem/732/B)
+- [732C. Sanatorium](http://codeforces.com/problemset/problem/732/C)
