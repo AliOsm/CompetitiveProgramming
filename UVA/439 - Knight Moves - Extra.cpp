@@ -33,9 +33,7 @@ void path(int ex, int ey) {
 
 	for (int i = 0, len = sol.size(); i < len; i++) {
 		cout << (char)(sol[i].first + 97) << sol[i].second + 1;
-		if (i + 1 != len) {
-			cout << " -> ";
-		}
+		if (i + 1 != len) cout << " -> ";
 	}
 
 	cout << "\n\n";
