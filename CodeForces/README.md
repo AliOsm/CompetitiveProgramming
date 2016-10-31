@@ -15,6 +15,7 @@
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [141A. Amusing Joke](http://codeforces.com/problemset/problem/141/A)
+- [158A. Next Round](http://codeforces.com/problemset/problem/158/A)
 - [160A. Twins](http://codeforces.com/problemset/problem/160/A)
 - [208A. Dubstep](http://codeforces.com/problemset/problem/208/A)
 - [214A. System of Equations](http://codeforces.com/problemset/problem/214/A)
