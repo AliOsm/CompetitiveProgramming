@@ -23,6 +23,7 @@
 - [231A. Team](http://codeforces.com/problemset/problem/231/A)
 - [262A. Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)
 - [281A. Word Capitalization](http://codeforces.com/problemset/problem/281/A)
+- [282A. Bit++](http://codeforces.com/problemset/problem/282/A)
 - [304A. Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)
 - [339A. Helpful Maths](http://codeforces.com/problemset/problem/339/A)
 - [385A. Bear and Raspberry](http://codeforces.com/problemset/problem/385/A)
