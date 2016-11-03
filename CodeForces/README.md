@@ -26,6 +26,7 @@
 - [432A. Choosing Teams](http://codeforces.com/problemset/problem/432/A)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
+- [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
 - [520A. Pangram](http://codeforces.com/problemset/problem/520/A)
 - [546C - Soldier and Cards](http://codeforces.com/problemset/problem/546/C)
 - [629A. Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)
@@ -60,3 +61,4 @@
 - [732A. Buy a Shovel](http://codeforces.com/problemset/problem/732/A)
 - [732B. Cormen — The Best Friend Of a Man](http://codeforces.com/problemset/problem/732/B)
 - [732C. Sanatorium](http://codeforces.com/problemset/problem/732/C)
+- [733B. Parade](http://codeforces.com/problemset/problem/733/B)
