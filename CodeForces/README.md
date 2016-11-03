@@ -68,4 +68,5 @@
 - [732A. Buy a Shovel](http://codeforces.com/problemset/problem/732/A)
 - [732B. Cormen — The Best Friend Of a Man](http://codeforces.com/problemset/problem/732/B)
 - [732C. Sanatorium](http://codeforces.com/problemset/problem/732/C)
+- [733A - Grasshopper And the String](http://codeforces.com/contest/733/problem/A)
 - [733B. Parade](http://codeforces.com/problemset/problem/733/B)
