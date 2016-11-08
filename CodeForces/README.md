@@ -38,6 +38,7 @@
 - [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
 - [520A. Pangram](http://codeforces.com/problemset/problem/520/A)
 - [546C - Soldier and Cards](http://codeforces.com/problemset/problem/546/C)
+- [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
 - [629A. Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)
 - [630A. Again Twenty Five!](http://codeforces.com/problemset/problem/630/A)
 - [630B. Moore's Law](http://codeforces.com/problemset/problem/630/B)
