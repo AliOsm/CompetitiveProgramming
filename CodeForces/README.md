@@ -45,6 +45,8 @@
 - [630C. Lucky Numbers](http://codeforces.com/problemset/problem/630/C)
 - [630Q. Pyramids](http://codeforces.com/problemset/problem/630/Q)
 - [630R. Game](http://codeforces.com/problemset/problem/630/R)
+- [670D1. Magic Powder - 1](http://codeforces.com/contest/670/problem/D1)
+- [670D2. Magic Powder - 2](http://codeforces.com/contest/670/problem/D2)
 - [672A. Summer Camp](http://codeforces.com/problemset/problem/672/A)
 - [672B. Different is Good](http://codeforces.com/problemset/problem/672/B)
 - [673A. Bear and Game](http://codeforces.com/problemset/problem/673/A)
