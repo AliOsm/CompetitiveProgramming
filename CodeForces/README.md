@@ -13,6 +13,7 @@
 - [71A. Way Too Long Words](http://codeforces.com/problemset/problem/71/A)
 - [96A. Football](http://codeforces.com/problemset/problem/96/A)
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
+- [112A. Petya and Strings](http://codeforces.com/contest/112/problem/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [141A. Amusing Joke](http://codeforces.com/problemset/problem/141/A)
