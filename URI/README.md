@@ -2,6 +2,7 @@
 
 - [1004 - Simple Product](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)
 - [1022 - TDA Rational](https://www.urionlinejudge.com.br/judge/en/problems/view/1022)
+- [1023 - Drought](https://www.urionlinejudge.com.br/judge/en/problems/view/1023)
 - [1025 - Where is the Marble?](https://www.urionlinejudge.com.br/judge/en/problems/view/1025)
 - [1038 - Snack](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)
 - [1068 - Parenthesis Balance I](https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
