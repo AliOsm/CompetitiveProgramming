@@ -14,3 +14,4 @@
 - [1259 - Even and Odd](https://www.urionlinejudge.com.br/judge/en/problems/view/1259)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
+- [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
