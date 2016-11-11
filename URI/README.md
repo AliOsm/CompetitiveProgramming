@@ -10,6 +10,7 @@
 - [1110 - Throwing Cards Away](https://www.urionlinejudge.com.br/judge/en/problems/view/1110)
 - [1162 - Train Swapping](https://www.urionlinejudge.com.br/judge/en/problems/view/1162)
 - [1168 - LED](https://www.urionlinejudge.com.br/judge/en/problems/view/1168)
+- [1244 - Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
 - [1245 - Lost Boots](https://www.urionlinejudge.com.br/judge/en/problems/view/1245)
 - [1249 - Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249)
 - [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/en/problems/view/1257)
