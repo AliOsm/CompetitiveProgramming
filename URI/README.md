@@ -19,3 +19,4 @@
 - [1281 - Going to the Market](https://www.urionlinejudge.com.br/judge/en/problems/view/1281)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
+- [1566 - Height](https://www.urionlinejudge.com.br/judge/en/problems/view/1566)
