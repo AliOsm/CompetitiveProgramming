@@ -8,6 +8,7 @@
 - [1068 - Parenthesis Balance I](https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
 - [1069 - Diamonds and San](https://www.urionlinejudge.com.br/judge/en/problems/view/1069)
 - [1110 - Throwing Cards Away](https://www.urionlinejudge.com.br/judge/en/problems/view/1110)
+- [1162 - Train Swapping](https://www.urionlinejudge.com.br/judge/en/problems/view/1162)
 - [1168 - LED](https://www.urionlinejudge.com.br/judge/en/problems/view/1168)
 - [1245 - Lost Boots](https://www.urionlinejudge.com.br/judge/en/problems/view/1245)
 - [1249 - Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249)
