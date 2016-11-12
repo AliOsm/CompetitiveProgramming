@@ -20,6 +20,7 @@
 - [1259 - Even and Odd](https://www.urionlinejudge.com.br/judge/en/problems/view/1259)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1281 - Going to the Market](https://www.urionlinejudge.com.br/judge/en/problems/view/1281)
+- [1430 - Jingle Composing](https://www.urionlinejudge.com.br/judge/en/problems/view/1430)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
 - [1566 - Height](https://www.urionlinejudge.com.br/judge/en/problems/view/1566)
