@@ -1,6 +1,7 @@
 # Problems
 
 - [1004 - Simple Product](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)
+- [1005 - Average 1](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)
 - [1022 - TDA Rational](https://www.urionlinejudge.com.br/judge/en/problems/view/1022)
 - [1023 - Drought](https://www.urionlinejudge.com.br/judge/en/problems/view/1023)
 - [1025 - Where is the Marble?](https://www.urionlinejudge.com.br/judge/en/problems/view/1025)
