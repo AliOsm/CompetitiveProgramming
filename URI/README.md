@@ -27,6 +27,7 @@
 - [1244 - Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
 - [1245 - Lost Boots](https://www.urionlinejudge.com.br/judge/en/problems/view/1245)
 - [1249 - Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249)
+- [1251 - Tell me the Frequencies!](https://www.urionlinejudge.com.br/judge/en/problems/view/1251)
 - [1256 - Hash Tables](https://www.urionlinejudge.com.br/judge/en/problems/view/1256)
 - [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/en/problems/view/1257)
 - [1258 - T-Shirts](https://www.urionlinejudge.com.br/judge/en/problems/view/1258)
