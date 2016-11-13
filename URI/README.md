@@ -32,6 +32,7 @@
 - [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/en/problems/view/1257)
 - [1258 - T-Shirts](https://www.urionlinejudge.com.br/judge/en/problems/view/1258)
 - [1259 - Even and Odd](https://www.urionlinejudge.com.br/judge/en/problems/view/1259)
+- [1260 - Hardwood Species](https://www.urionlinejudge.com.br/judge/en/problems/view/1260)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1281 - Going to the Market](https://www.urionlinejudge.com.br/judge/en/problems/view/1281)
 - [1340 - I Can Guess the Data Structure!](https://www.urionlinejudge.com.br/judge/en/problems/view/1340)
