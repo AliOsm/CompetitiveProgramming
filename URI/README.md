@@ -8,6 +8,7 @@
 - [1038 - Snack](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)
 - [1068 - Parenthesis Balance I](https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
 - [1069 - Diamonds and San](https://www.urionlinejudge.com.br/judge/en/problems/view/1069)
+- [1088 - Bubbles and Buckets](https://www.urionlinejudge.com.br/judge/en/problems/view/1088)
 - [1110 - Throwing Cards Away](https://www.urionlinejudge.com.br/judge/en/problems/view/1110)
 - [1162 - Train Swapping](https://www.urionlinejudge.com.br/judge/en/problems/view/1162)
 - [1168 - LED](https://www.urionlinejudge.com.br/judge/en/problems/view/1168)
