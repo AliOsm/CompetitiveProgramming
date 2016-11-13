@@ -1,7 +1,18 @@
 # Problems
 
+- [1001 - Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)
+- [1002 - Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)
+- [1003 - Simple Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)
 - [1004 - Simple Product](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)
 - [1005 - Average 1](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)
+- [1006 - Average 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)
+- [1007 - Difference](https://www.urionlinejudge.com.br/judge/en/problems/view/1007)
+- [1008 - Salary](https://www.urionlinejudge.com.br/judge/en/problems/view/1008)
+- [1009 - Salary with Bonus](https://www.urionlinejudge.com.br/judge/en/problems/view/1009)
+- [1010 - Simple Calculate](https://www.urionlinejudge.com.br/judge/en/problems/view/1010)
+- [1011 - Sphere](https://www.urionlinejudge.com.br/judge/en/problems/view/1011)
+- [1012 - Area](https://www.urionlinejudge.com.br/judge/en/problems/view/1012)
+- [1013 - The Greatest](https://www.urionlinejudge.com.br/judge/en/problems/view/1013)
 - [1022 - TDA Rational](https://www.urionlinejudge.com.br/judge/en/problems/view/1022)
 - [1023 - Drought](https://www.urionlinejudge.com.br/judge/en/problems/view/1023)
 - [1025 - Where is the Marble?](https://www.urionlinejudge.com.br/judge/en/problems/view/1025)
