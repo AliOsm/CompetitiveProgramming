@@ -36,6 +36,7 @@
 - [1260 - Hardwood Species](https://www.urionlinejudge.com.br/judge/en/problems/view/1260)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1281 - Going to the Market](https://www.urionlinejudge.com.br/judge/en/problems/view/1281)
+- [1332 - One-Two-Three](https://www.urionlinejudge.com.br/judge/en/problems/view/1332)
 - [1340 - I Can Guess the Data Structure!](https://www.urionlinejudge.com.br/judge/en/problems/view/1340)
 - [1424 - Easy Problem from Rujia Liu?](https://www.urionlinejudge.com.br/judge/en/problems/view/1424)
 - [1430 - Jingle Composing](https://www.urionlinejudge.com.br/judge/en/problems/view/1430)
