@@ -33,6 +33,7 @@
 - [1251 - Tell me the Frequencies!](https://www.urionlinejudge.com.br/judge/en/problems/view/1251)
 - [1252 - Sort! Sort!! And Sort!!!](https://www.urionlinejudge.com.br/judge/en/problems/view/1252)
 - [1253 - Caesar Cipher](https://www.urionlinejudge.com.br/judge/en/problems/view/1253)
+- [1255 - Letter Frequency](https://www.urionlinejudge.com.br/judge/en/problems/view/1255)
 - [1256 - Hash Tables](https://www.urionlinejudge.com.br/judge/en/problems/view/1256)
 - [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/en/problems/view/1257)
 - [1258 - T-Shirts](https://www.urionlinejudge.com.br/judge/en/problems/view/1258)
