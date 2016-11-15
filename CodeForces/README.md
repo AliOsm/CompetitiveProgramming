@@ -75,3 +75,5 @@
 - [732C. Sanatorium](http://codeforces.com/problemset/problem/732/C)
 - [733A - Grasshopper And the String](http://codeforces.com/contest/733/problem/A)
 - [733B. Parade](http://codeforces.com/problemset/problem/733/B)
+- [734A - Anton and Danik](http://codeforces.com/problemset/problem/734/A)
+- [734B - Anton and Digits](http://codeforces.com/problemset/problem/734/B)
