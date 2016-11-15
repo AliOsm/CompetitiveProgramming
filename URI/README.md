@@ -41,6 +41,7 @@
 - [1260 - Hardwood Species](https://www.urionlinejudge.com.br/judge/en/problems/view/1260)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1272 - Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272)
+- [1273 - Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273)
 - [1281 - Going to the Market](https://www.urionlinejudge.com.br/judge/en/problems/view/1281)
 - [1332 - One-Two-Three](https://www.urionlinejudge.com.br/judge/en/problems/view/1332)
 - [1340 - I Can Guess the Data Structure!](https://www.urionlinejudge.com.br/judge/en/problems/view/1340)
