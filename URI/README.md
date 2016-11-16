@@ -41,6 +41,7 @@
 - [1258 - T-Shirts](https://www.urionlinejudge.com.br/judge/en/problems/view/1258)
 - [1259 - Even and Odd](https://www.urionlinejudge.com.br/judge/en/problems/view/1259)
 - [1260 - Hardwood Species](https://www.urionlinejudge.com.br/judge/en/problems/view/1260)
+- [1262 - Multiple Reading](https://www.urionlinejudge.com.br/judge/en/problems/view/1262)
 - [1263 - Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263)
 - [1272 - Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272)
 - [1273 - Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273)
