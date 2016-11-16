@@ -27,6 +27,7 @@
 - [1234 - Dancing Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1234)
 - [1237 - Compare Substring](https://www.urionlinejudge.com.br/judge/en/problems/view/1237)
 - [1238 - Combiner](https://www.urionlinejudge.com.br/judge/en/problems/view/1238)
+- [1239 - Bloggo Shortcuts](https://www.urionlinejudge.com.br/judge/en/problems/view/1239)
 - [1241 - Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241)
 - [1244 - Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
 - [1245 - Lost Boots](https://www.urionlinejudge.com.br/judge/en/problems/view/1245)
