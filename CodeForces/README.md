@@ -77,3 +77,4 @@
 - [733B. Parade](http://codeforces.com/problemset/problem/733/B)
 - [734A - Anton and Danik](http://codeforces.com/problemset/problem/734/A)
 - [734B - Anton and Digits](http://codeforces.com/problemset/problem/734/B)
+- [734D. Anton and Chess](http://codeforces.com/problemset/problem/734/D)
