@@ -50,5 +50,6 @@
 - [1430 - Jingle Composing](https://www.urionlinejudge.com.br/judge/en/problems/view/1430)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
+- [1551 - Complete Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1551)
 - [1566 - Height](https://www.urionlinejudge.com.br/judge/en/problems/view/1566)
 - [1607 - Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607)
