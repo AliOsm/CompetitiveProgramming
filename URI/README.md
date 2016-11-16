@@ -25,6 +25,7 @@
 - [1168 - LED](https://www.urionlinejudge.com.br/judge/en/problems/view/1168)
 - [1211 - Economic Phonebook](https://www.urionlinejudge.com.br/judge/en/problems/view/1211)
 - [1234 - Dancing Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1234)
+- [1237 - Compare Substring](https://www.urionlinejudge.com.br/judge/en/problems/view/1237)
 - [1238 - Combiner](https://www.urionlinejudge.com.br/judge/en/problems/view/1238)
 - [1241 - Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241)
 - [1244 - Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
