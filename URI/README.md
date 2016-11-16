@@ -53,5 +53,6 @@
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
 - [1551 - Complete Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1551)
 - [1566 - Height](https://www.urionlinejudge.com.br/judge/en/problems/view/1566)
+- [1581 - International Chat](https://www.urionlinejudge.com.br/judge/en/problems/view/1581)
 - [1607 - Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607)
 - [1871 - Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871)
