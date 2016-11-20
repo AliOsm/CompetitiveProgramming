@@ -68,6 +68,7 @@
 - [727A. Transformation: from A to B](http://codeforces.com/problemset/problem/727/A)
 - [727B. Bill Total Value](http://codeforces.com/problemset/problem/727/B)
 - [725A. Jumping Ball](http://codeforces.com/problemset/problem/725/A)
+- [729A. Interview with Oleg](http://codeforces.com/problemset/problem/729/A)
 - [731A. Night at the Museum](http://codeforces.com/problemset/problem/731/A)
 - [731B. Coupons and Discounts](http://codeforces.com/problemset/problem/731/B)
 - [732A. Buy a Shovel](http://codeforces.com/problemset/problem/732/A)
