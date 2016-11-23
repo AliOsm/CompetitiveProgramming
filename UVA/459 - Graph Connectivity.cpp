@@ -1,11 +1,12 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <memory.h>
 
 using namespace std;
 
 vector<vector<int> > g;
-int vis[27];
+bool vis[26];
 
 void DFS(int n) {
 	vis[n] = 1;
@@ -20,7 +21,7 @@ int main() {
 
 	while (t--) {
 		g.clear();
-		for (int i = 0; i < 27; i++) vis[i] = 0;
+		memset(vis, false, 26);
 
 		char tmp;
 		cin >> tmp;
