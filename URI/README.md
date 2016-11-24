@@ -56,6 +56,7 @@
 - [1340 - I Can Guess the Data Structure!](https://www.urionlinejudge.com.br/judge/en/problems/view/1340)
 - [1424 - Easy Problem from Rujia Liu?](https://www.urionlinejudge.com.br/judge/en/problems/view/1424)
 - [1430 - Jingle Composing](https://www.urionlinejudge.com.br/judge/en/problems/view/1430)
+- [1451 - Broken Keyboard](https://www.urionlinejudge.com.br/judge/en/problems/view/1451)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)
 - [1551 - Complete Sentence](https://www.urionlinejudge.com.br/judge/en/problems/view/1551)
