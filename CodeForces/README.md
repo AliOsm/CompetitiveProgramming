@@ -71,6 +71,7 @@
 - [729A. Interview with Oleg](http://codeforces.com/problemset/problem/729/A)
 - [731A. Night at the Museum](http://codeforces.com/problemset/problem/731/A)
 - [731B. Coupons and Discounts](http://codeforces.com/problemset/problem/731/B)
+- [731C. Socks](http://codeforces.com/problemset/problem/731/C)
 - [732A. Buy a Shovel](http://codeforces.com/problemset/problem/732/A)
 - [732B. Cormen — The Best Friend Of a Man](http://codeforces.com/problemset/problem/732/B)
 - [732C. Sanatorium](http://codeforces.com/problemset/problem/732/C)
