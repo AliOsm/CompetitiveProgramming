@@ -20,6 +20,7 @@
 - [1023 - Drought](https://www.urionlinejudge.com.br/judge/en/problems/view/1023)
 - [1025 - Where is the Marble?](https://www.urionlinejudge.com.br/judge/en/problems/view/1025)
 - [1038 - Snack](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)
+- [1039 - Fire Flowers](https://www.urionlinejudge.com.br/judge/en/problems/view/1039)
 - [1068 - Parenthesis Balance I](https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
 - [1069 - Diamonds and San](https://www.urionlinejudge.com.br/judge/en/problems/view/1069)
 - [1088 - Bubbles and Buckets](https://www.urionlinejudge.com.br/judge/en/problems/view/1088)
