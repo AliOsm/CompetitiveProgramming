@@ -81,3 +81,4 @@
 - [734B - Anton and Digits](http://codeforces.com/problemset/problem/734/B)
 - [734D. Anton and Chess](http://codeforces.com/problemset/problem/734/D)
 - [735A. Ostap and Grasshopper](http://codeforces.com/problemset/problem/735/A)
+- [735B. Urbanization](http://codeforces.com/problemset/problem/735/B)
