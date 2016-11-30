@@ -35,6 +35,7 @@
 - [432A. Choosing Teams](http://codeforces.com/problemset/problem/432/A)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
+- [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
 - [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
 - [520A. Pangram](http://codeforces.com/problemset/problem/520/A)
 - [546C - Soldier and Cards](http://codeforces.com/problemset/problem/546/C)
