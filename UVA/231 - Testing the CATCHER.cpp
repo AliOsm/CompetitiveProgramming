@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <vector>
 #include <memory.h>
+#include <algorithm>
 
 using namespace std;
 
