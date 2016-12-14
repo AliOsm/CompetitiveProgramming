@@ -8,6 +8,7 @@
 - [25B. Phone numbers](http://codeforces.com/problemset/problem/25/B)
 - [41A. Translation](http://codeforces.com/problemset/problem/41/A)
 - [50A. Domino piling](http://codeforces.com/problemset/problem/50/A)
+- [56D. Changing a String](http://codeforces.com/contest/56/problem/D)
 - [58A. Chat room](http://codeforces.com/problemset/problem/58/A)
 - [59A. Word](http://codeforces.com/problemset/problem/59/A)
 - [71A. Way Too Long Words](http://codeforces.com/problemset/problem/71/A)
