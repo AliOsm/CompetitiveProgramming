@@ -6,7 +6,7 @@
 using namespace std;
 
 const int N = 5000;
-int dp[N][N], shift = 0;
+int dp[N][N];
 string a, b;
 
 int calc(int i, int j) {

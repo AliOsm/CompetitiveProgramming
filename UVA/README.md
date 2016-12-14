@@ -4,6 +4,7 @@
 - [231 - Testing the CATCHER](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=167)
 - [439 - Knight Moves](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380)
 - [459 - Graph Connectivity](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=400)
+- [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
 - [572 - Oil Deposits](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=513)
 - [1148 - The mysterious X network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3589)
 - [1207 - AGTC](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3648)
