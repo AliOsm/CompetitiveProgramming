@@ -5,5 +5,6 @@
 - [EDIST - Edit distance](http://www.spoj.com/problems/EDIST/)
 - [EDIT - Edit Distance Again](http://www.spoj.com/problems/EDIT/)
 - [KNAPSACK - The Knapsack Problem](http://www.spoj.com/problems/KNAPSACK/)
+- [MC - Minimum Cost](http://www.spoj.com/problems/MC/)
 - [PT07Y - Is it a tree](http://www.spoj.com/problems/PT07Y/)
 - [TOANDFRO - To and Fro](http://www.spoj.com/problems/TOANDFRO/)
