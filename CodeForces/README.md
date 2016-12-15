@@ -16,6 +16,7 @@
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
 - [112A. Petya and Strings](http://codeforces.com/contest/112/problem/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
+- [122A. Lucky Division](http://codeforces.com/problemset/problem/122/A)
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [141A. Amusing Joke](http://codeforces.com/problemset/problem/141/A)
 - [158A. Next Round](http://codeforces.com/problemset/problem/158/A)
