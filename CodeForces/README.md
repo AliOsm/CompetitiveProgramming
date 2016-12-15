@@ -38,6 +38,7 @@
 - [405A. Gravity Flip](http://codeforces.com/problemset/problem/405/A)
 - [432A. Choosing Teams](http://codeforces.com/problemset/problem/432/A)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
+- [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
 - [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
