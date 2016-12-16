@@ -6,6 +6,7 @@
 - [21B. Intersection](http://codeforces.com/problemset/problem/21/B)
 - [25A. IQ test](http://codeforces.com/problemset/problem/25/A)
 - [25B. Phone numbers](http://codeforces.com/problemset/problem/25/B)
+- [26A. Almost Prime](http://codeforces.com/problemset/problem/26/A)
 - [41A. Translation](http://codeforces.com/problemset/problem/41/A)
 - [50A. Domino piling](http://codeforces.com/problemset/problem/50/A)
 - [56D. Changing a String](http://codeforces.com/contest/56/problem/D)
