@@ -90,3 +90,4 @@
 - [735A. Ostap and Grasshopper](http://codeforces.com/problemset/problem/735/A)
 - [735B. Urbanization](http://codeforces.com/problemset/problem/735/B)
 - [742A. Arpa’s hard exam and Mehrdad’s naive chea](http://codeforces.com/problemset/problem/742/A)
+- [746A. Compote](http://codeforces.com/contest/746/problem/A)
