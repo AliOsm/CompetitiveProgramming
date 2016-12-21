@@ -2,6 +2,8 @@
 
 - [1A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
 - [4A. Watermelon](http://codeforces.com/contest/4/problem/A)
+- [12A. Super Agent](http://codeforces.com/contest/12/problem/A)
+- [12B. Correct Solution?](http://codeforces.com/contest/12/problem/B)
 - [21A. Jabber ID](http://codeforces.com/problemset/problem/21/A)
 - [21B. Intersection](http://codeforces.com/problemset/problem/21/B)
 - [25A. IQ test](http://codeforces.com/problemset/problem/25/A)
@@ -58,6 +60,7 @@
 - [672B. Different is Good](http://codeforces.com/problemset/problem/672/B)
 - [673A. Bear and Game](http://codeforces.com/problemset/problem/673/A)
 - [675A. Infinite Sequence](http://codeforces.com/problemset/problem/675/A)
+- [690D1. The Wall (easy)](http://codeforces.com/problemset/problem/690/D1)
 - [701A. Cards](http://codeforces.com/problemset/problem/701/A)
 - [702A. Maximum Increase](http://codeforces.com/problemset/problem/702/A)
 - [705A. Hulk](http://codeforces.com/problemset/problem/705/A)
