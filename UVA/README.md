@@ -8,6 +8,7 @@
 - [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
 - [543 - Goldbach's Conjecture](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=484)
 - [572 - Oil Deposits](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=513)
+- [929 - Number Maze](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=870)
 - [1148 - The mysterious X network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3589)
 - [1207 - AGTC](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3648)
 - [1585 - Score](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
