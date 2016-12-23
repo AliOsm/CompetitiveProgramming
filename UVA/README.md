@@ -20,5 +20,6 @@
 - [10789 - Prime Frequency](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1730)
 - [10924 - Prime Words](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1865)
 - [10929 - You can say 11](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1870)
+- [10986 - Sending email](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1927)
 - [11362 - Phone List](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2347)
 - [11917 - Do Your Own Homework](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3068)
