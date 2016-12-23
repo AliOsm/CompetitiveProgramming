@@ -4,6 +4,7 @@
 - [4A. Watermelon](http://codeforces.com/contest/4/problem/A)
 - [12A. Super Agent](http://codeforces.com/contest/12/problem/A)
 - [12B. Correct Solution?](http://codeforces.com/contest/12/problem/B)
+- [20C. Dijkstra?](http://codeforces.com/contest/20/problem/C)
 - [21A. Jabber ID](http://codeforces.com/problemset/problem/21/A)
 - [21B. Intersection](http://codeforces.com/problemset/problem/21/B)
 - [25A. IQ test](http://codeforces.com/problemset/problem/25/A)
