@@ -2,6 +2,7 @@
 
 - [CRSCNTRY - Cross-country](http://www.spoj.com/problems/CRSCNTRY/)
 - [ELIS - Easy Longest Increasing Subsequence](http://www.spoj.com/problems/ELIS/)
+- [DCOWS - Dancing Cows](http://www.spoj.com/problems/DCOWS/)
 - [EDIST - Edit distance](http://www.spoj.com/problems/EDIST/)
 - [EDIT - Edit Distance Again](http://www.spoj.com/problems/EDIT/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
