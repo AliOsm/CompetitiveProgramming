@@ -98,4 +98,5 @@
 - [742A. Arpa’s hard exam and Mehrdad’s naive chea](http://codeforces.com/problemset/problem/742/A)
 - [746A. Compote](http://codeforces.com/contest/746/problem/A)
 - [746B. Decoding](http://codeforces.com/contest/746/problem/B)
+- [747B. Mammoth's Genome Decoding](http://codeforces.com/contest/747/problem/B)
 - [749A. Bachgold Problem](http://codeforces.com/contest/749/problem/A)
