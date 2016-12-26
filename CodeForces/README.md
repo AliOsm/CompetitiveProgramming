@@ -100,3 +100,4 @@
 - [746B. Decoding](http://codeforces.com/contest/746/problem/B)
 - [747B. Mammoth's Genome Decoding](http://codeforces.com/contest/747/problem/B)
 - [749A. Bachgold Problem](http://codeforces.com/contest/749/problem/A)
+- [752A. Santa Claus and a Place in a Class](http://codeforces.com/contest/752/problem/A)
