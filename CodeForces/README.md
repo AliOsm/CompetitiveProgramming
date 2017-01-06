@@ -21,6 +21,7 @@
 - [96A. Football](http://codeforces.com/problemset/problem/96/A)
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
 - [112A. Petya and Strings](http://codeforces.com/contest/112/problem/A)
+- [115A. Party](http://codeforces.com/problemset/problem/115/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [122A. Lucky Division](http://codeforces.com/problemset/problem/122/A)
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
