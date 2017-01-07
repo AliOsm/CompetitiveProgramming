@@ -3,6 +3,7 @@
 - [111 - History Grading](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=47)
 - [164 - String Computer](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=100)
 - [231 - Testing the CATCHER](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=167)
+- [280 - Vertex](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=216)
 - [439 - Knight Moves](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380)
 - [459 - Graph Connectivity](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=400)
 - [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
