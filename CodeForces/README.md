@@ -33,6 +33,7 @@
 - [208A. Dubstep](http://codeforces.com/problemset/problem/208/A)
 - [214A. System of Equations](http://codeforces.com/problemset/problem/214/A)
 - [231A. Team](http://codeforces.com/problemset/problem/231/A)
+- [236A. Boy or Girl](http://codeforces.com/problemset/problem/236/A)
 - [262A. Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)
 - [268A. Games](http://codeforces.com/problemset/problem/268/A)
 - [281A. Word Capitalization](http://codeforces.com/problemset/problem/281/A)
