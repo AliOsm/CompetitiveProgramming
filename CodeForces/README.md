@@ -50,6 +50,7 @@
 - [432A. Choosing Teams](http://codeforces.com/problemset/problem/432/A)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
 - [448A. Rewards](http://codeforces.com/problemset/problem/448/A)
+- [454A. Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
