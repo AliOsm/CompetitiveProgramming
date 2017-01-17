@@ -13,6 +13,7 @@
 - [35C. Fire Again](http://codeforces.com/contest/35/problem/C)
 - [35D. Animals](http://codeforces.com/contest/35/problem/D)
 - [41A. Translation](http://codeforces.com/problemset/problem/41/A)
+- [47A. Triangular numbers](http://codeforces.com/problemset/problem/47/A)
 - [50A. Domino piling](http://codeforces.com/problemset/problem/50/A)
 - [56D. Changing a String](http://codeforces.com/contest/56/problem/D)
 - [58A. Chat room](http://codeforces.com/problemset/problem/58/A)
