@@ -22,6 +22,7 @@
 - [10235 - Simply Emirp](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1176)
 - [10305 - Ordering Tasks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1246)
 - [10340 - All in All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1281)
+- [10370 - Above Average](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1311)
 - [10405 - Longest Common Subsequence](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1346)
 - [10789 - Prime Frequency](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1730)
 - [10921 - Find the Telephone](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1862)
