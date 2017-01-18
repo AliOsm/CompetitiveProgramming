@@ -33,6 +33,7 @@
 - [11498 - Division of Nlogonia](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2493)
 - [11917 - Do Your Own Homework](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3068)
 - [11942 - Lumberjack Sequencing](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3093)
+- [10963 - The Swallowing Ground](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1904)
 - [12015 - Google is Feeling Lucky](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3166)
 - [12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3794)
 - [12527 - Different Digits](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3972)
