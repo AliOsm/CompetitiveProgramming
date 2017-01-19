@@ -6,6 +6,7 @@
 - [17. Kids Love Candies](https://a2oj.com/p?ID=17)
 - [132. Anagram String](https://a2oj.com/p?ID=132)
 - [137. Cryptography](https://a2oj.com/p?ID=137)
+- [152. Ahmad & Sally](https://a2oj.com/p?ID=152)
 - [168. Parentheses](https://a2oj.com/p?ID=168)
 - [184. Strings with Same Letters](https://a2oj.com/p?ID=184)
 - [186. Cryptoquote](https://a2oj.com/p?ID=186)
