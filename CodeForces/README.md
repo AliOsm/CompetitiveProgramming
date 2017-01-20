@@ -19,6 +19,7 @@
 - [58A. Chat room](http://codeforces.com/problemset/problem/58/A)
 - [59A. Word](http://codeforces.com/problemset/problem/59/A)
 - [71A. Way Too Long Words](http://codeforces.com/problemset/problem/71/A)
+- [75A. Life Without Zeros](http://codeforces.com/contest/75/problem/A)
 - [96A. Football](http://codeforces.com/problemset/problem/96/A)
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
 - [112A. Petya and Strings](http://codeforces.com/contest/112/problem/A)
