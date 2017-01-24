@@ -26,6 +26,7 @@
 - [10370 - Above Average](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1311)
 - [10405 - Longest Common Subsequence](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1346)
 - [10789 - Prime Frequency](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1730)
+- [10911 - Forming Quiz Teams](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
 - [10921 - Find the Telephone](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1862)
 - [10924 - Prime Words](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1865)
 - [10929 - You can say 11](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1870)
