@@ -45,3 +45,4 @@
 - [12015 - Google is Feeling Lucky](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3166)
 - [12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3794)
 - [12527 - Different Digits](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3972)
+- [12541 - Birthdates](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3986)
