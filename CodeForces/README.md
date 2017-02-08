@@ -124,3 +124,4 @@
 - [750B. New Year and North Pole](http://codeforces.com/contest/750/problem/B)
 - [752A. Santa Claus and a Place in a Class](http://codeforces.com/contest/752/problem/A)
 - [757A. Gotta Catch Em' All!](http://codeforces.com/contest/757/problem/A)
+- [766A. Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A)
