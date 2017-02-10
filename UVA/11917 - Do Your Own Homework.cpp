@@ -5,8 +5,6 @@
 using namespace std;
 
 int main() {
-    // freopen("input.txt", "r", stdin);
-    
     int t;
     cin >> t;
     
@@ -31,13 +29,12 @@ int main() {
 
         cout << "Case " << i + 1 << ": ";
 
-        if(arr[subject] && arr[subject] <= days) {
+        if(arr[subject] && arr[subject] <= days)
             cout << "Yesss";
-        } else if(arr[subject] && arr[subject] <= days + 5) {
+        else if(arr[subject] && arr[subject] <= days + 5)
             cout << "Late";
-        } else {
+        else
             cout << "Do your own homework!";
-        }
 
         cout << endl;
     }
