@@ -23,6 +23,7 @@
 - [71A. Way Too Long Words](http://codeforces.com/problemset/problem/71/A)
 - [75A. Life Without Zeros](http://codeforces.com/contest/75/problem/A)
 - [80A. Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)
+- [81A. Plug-in](http://codeforces.com/contest/81/problem/A)
 - [96A. Football](http://codeforces.com/problemset/problem/96/A)
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
 - [110A. Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)
