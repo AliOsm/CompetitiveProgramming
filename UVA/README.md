@@ -70,4 +70,5 @@
 - [12503 - Robot Instructions](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3947)
 - [12527 - Different Digits](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3972)
 - [12541 - Birthdates](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3986)
+- [12554 - A Special Happy Birthday Song!!!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3999)
 - [12577 - Hajj-e-Akbar](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4022)
