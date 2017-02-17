@@ -71,6 +71,7 @@
 - [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
 - [520A. Pangram](http://codeforces.com/problemset/problem/520/A)
 - [520B. Two Buttons](http://codeforces.com/contest/520/problem/B)
+- [540A. Combination Lock](http://codeforces.com/problemset/problem/540/A)
 - [546C - Soldier and Cards](http://codeforces.com/problemset/problem/546/C)
 - [591B. Rebranding](http://codeforces.com/contest/591/problem/B)
 - [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
