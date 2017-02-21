@@ -2,6 +2,7 @@
 
 - [111 - History Grading](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=47)
 - [164 - String Computer](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=100)
+- [200 - Rare Order](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=136)
 - [231 - Testing the CATCHER](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=167)
 - [272 - TEX Quotes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=208)
 - [280 - Vertex](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=216)
