@@ -90,6 +90,7 @@
 - [673A. Bear and Game](http://codeforces.com/problemset/problem/673/A)
 - [675A. Infinite Sequence](http://codeforces.com/problemset/problem/675/A)
 - [690D1. The Wall (easy)](http://codeforces.com/problemset/problem/690/D1)
+- [691D. Swaps in Permutation](http://codeforces.com/contest/691/problem/D)
 - [701A. Cards](http://codeforces.com/problemset/problem/701/A)
 - [702A. Maximum Increase](http://codeforces.com/problemset/problem/702/A)
 - [705A. Hulk](http://codeforces.com/problemset/problem/705/A)
@@ -131,3 +132,4 @@
 - [752A. Santa Claus and a Place in a Class](http://codeforces.com/contest/752/problem/A)
 - [757A. Gotta Catch Em' All!](http://codeforces.com/contest/757/problem/A)
 - [766A. Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A)
+- [766D. Mahmoud and a Dictionary](http://codeforces.com/contest/766/problem/D)
