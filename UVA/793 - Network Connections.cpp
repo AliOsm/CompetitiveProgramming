@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int const N = 1e4 + 1;
+int const N = 1e6 + 1;
 int ds[N];
 
 int find(int x) {
@@ -15,7 +15,7 @@ int main() {
     int t;
     cin >> t;
 
-    string s;
+    string s, tmp;
     cin.ignore();
     getline(cin, s);
 
@@ -33,8 +33,22 @@ int main() {
 
         cin.ignore();
         while(getline(cin, s) && s != "") {
-            a = s[2] - '0';
-            b = s[4] - '0';
+        	tmp = s.substr(2, s.find(' ', 2) - s.find(' ') - 1);
+
+        	a = 0;
+        	for(int i = 0; i < (int)tmp.length(); i++) {
+        		a *= 10;
+        		a += tmp[i] - '0';
+        	}
+
+        	tmp = s.substr(s.find(' ', 2) + 1);
+
+        	b = 0;
+			for(int i = 0; i < (int)tmp.length(); i++) {
+				b *= 10;
+				b += tmp[i] - '0';
+			}
+
             a--; b--;
 
             if(s[0] == 'c') {
