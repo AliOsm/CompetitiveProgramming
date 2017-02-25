@@ -8,6 +8,7 @@
 - [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)
 - [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 - [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else)
+- [Easy sum](https://www.hackerrank.com/challenges/easy-sum)
 - [Find Digits](https://www.hackerrank.com/challenges/find-digits)
 - [Find the Point](https://www.hackerrank.com/challenges/find-point)
 - [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop)
