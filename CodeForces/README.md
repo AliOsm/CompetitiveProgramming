@@ -77,6 +77,7 @@
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
 - [591B. Rebranding](http://codeforces.com/contest/591/problem/B)
 - [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
+- [616D. Longest k-Good Segment](http://codeforces.com/contest/616/problem/D)
 - [629A. Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)
 - [630A. Again Twenty Five!](http://codeforces.com/problemset/problem/630/A)
 - [630B. Moore's Law](http://codeforces.com/problemset/problem/630/B)
