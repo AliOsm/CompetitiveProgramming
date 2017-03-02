@@ -12,6 +12,7 @@
 - [499 - What's The Frequency, Kenneth?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=440)
 - [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
 - [543 - Goldbach's Conjecture](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=484)
+- [567 - Risk](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508)
 - [572 - Oil Deposits](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=513)
 - [621 - Secret Research](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=562)
 - [686 - Goldbach's Conjecture (II)](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=627)
