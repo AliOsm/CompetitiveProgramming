@@ -56,6 +56,7 @@
 - [10986 - Sending email](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1927)
 - [11034 - Ferry Loading IV](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1975)
 - [11044 - Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985)
+- [11057 - Exact Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1998)
 - [11172 - Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2113)
 - [11223 - O: dah dah dah!](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2164)
 - [11332 - Summing Digits](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2307)

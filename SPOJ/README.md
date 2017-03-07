@@ -1,5 +1,6 @@
 # Problems links
 
+- [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
 - [CRSCNTRY - Cross-country](http://www.spoj.com/problems/CRSCNTRY/)
 - [ELIS - Easy Longest Increasing Subsequence](http://www.spoj.com/problems/ELIS/)
 - [DCOWS - Dancing Cows](http://www.spoj.com/problems/DCOWS/)
