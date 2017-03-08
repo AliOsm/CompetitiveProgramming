@@ -11,6 +11,7 @@
 - [25B. Phone numbers](http://codeforces.com/problemset/problem/25/B)
 - [26A. Almost Prime](http://codeforces.com/problemset/problem/26/A)
 - [32B. Borze](http://codeforces.com/problemset/problem/32/B)
+- [33B. String Problem](http://codeforces.com/contest/33/problem/B)
 - [35C. Fire Again](http://codeforces.com/contest/35/problem/C)
 - [35D. Animals](http://codeforces.com/contest/35/problem/D)
 - [41A. Translation](http://codeforces.com/problemset/problem/41/A)
