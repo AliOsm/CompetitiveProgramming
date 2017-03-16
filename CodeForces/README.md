@@ -142,3 +142,6 @@
 - [757A. Gotta Catch Em' All!](http://codeforces.com/contest/757/problem/A)
 - [766A. Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A)
 - [766D. Mahmoud and a Dictionary](http://codeforces.com/contest/766/problem/D)
+- [785A. Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A)
+- [785B. Anton and Classes](http://codeforces.com/contest/785/problem/B)
+- [785C. Anton and Fairy Tale](http://codeforces.com/contest/785/problem/C)
