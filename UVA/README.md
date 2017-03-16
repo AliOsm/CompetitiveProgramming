@@ -1,5 +1,6 @@
 # Problems
 
+- [100 - The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)
 - [111 - History Grading](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=47)
 - [164 - String Computer](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=100)
 - [200 - Rare Order](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=136)
@@ -69,6 +70,7 @@
 - [11547 - Automatic Answer](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2542)
 - [11559 - Event Planning](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2595)
 - [11577 - Letter Frequency](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2624)
+- [11631 - Dark roads](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2678)
 - [11727 - Cost Cutting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2827)
 - [11764 - Jumping Mario](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2864)
 - [11799 - Horror Dash](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2899)
