@@ -28,6 +28,7 @@
 - [1586 - Molar mass](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=4461)
 - [10000 - Longest Paths](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=941)
 - [10008 - What's Cryptanalysis?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=949)
+- [10034 - Freckles](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
 - [10062 - Tell me the frequencies!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1003)
 - [10107 - What is the Median](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1048)
 - [10116 - Robot Motion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1057)
