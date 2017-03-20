@@ -81,6 +81,7 @@
 - [540A. Combination Lock](http://codeforces.com/problemset/problem/540/A)
 - [546C - Soldier and Cards](http://codeforces.com/problemset/problem/546/C)
 - [546A. Soldier and Bananas](http://codeforces.com/contest/546/problem/A)
+- [550C. Divisibility by Eight](http://codeforces.com/problemset/problem/550/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
 - [591B. Rebranding](http://codeforces.com/contest/591/problem/B)
 - [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
