@@ -14,5 +14,7 @@
 - [MAIN8_C - Shake Shake Shaky](http://www.spoj.com/problems/MAIN8_C/)
 - [MBLAST - BLAST](http://www.spoj.com/problems/MBLAST/)
 - [MC - Minimum Cost](http://www.spoj.com/problems/MC/)
+- [OPCPRIME - Prime Factorization](http://www.spoj.com/problems/OPCPRIME/)
 - [PT07Y - Is it a tree](http://www.spoj.com/problems/PT07Y/)
+- [ROADS - Roads](http://www.spoj.com/problems/ROADS/)
 - [TOANDFRO - To and Fro](http://www.spoj.com/problems/TOANDFRO/)
