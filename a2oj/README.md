@@ -4,6 +4,7 @@
 - [6. Balloons Colors](https://a2oj.com/p?ID=6)
 - [7. NASSA's Robot](https://a2oj.com/p?ID=7)
 - [17. Kids Love Candies](https://a2oj.com/p?ID=17)
+- [22. Contest Hall Preparation](https://a2oj.com/p?ID=22)
 - [24. Arabic and English](https://www.a2oj.com/p?ID=24)
 - [132. Anagram String](https://a2oj.com/p?ID=132)
 - [137. Cryptography](https://a2oj.com/p?ID=137)
