@@ -68,6 +68,7 @@
 - [11364 - Parking](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2349)
 - [11462 - Age Sort](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2457)
 - [11498 - Division of Nlogonia](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2493)
+- [11512 - GATTACA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2507)
 - [11530 - SMS Typing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2525)
 - [11547 - Automatic Answer](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2542)
 - [11559 - Event Planning](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2595)
