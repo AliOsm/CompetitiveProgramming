@@ -48,6 +48,7 @@
 - [10420 - List of Conquests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1361)
 - [10550 - Combination Lock](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1491)
 - [10608 - Friends](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1549)
+- [10611 - The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
 - [10789 - Prime Frequency](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1730)
 - [10911 - Forming Quiz Teams](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
 - [10921 - Find the Telephone](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1862)
