@@ -31,6 +31,7 @@
 - [10008 - What's Cryptanalysis?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=949)
 - [10034 - Freckles](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
 - [10062 - Tell me the frequencies!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1003)
+- [10098 - Generating Fast](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1039)
 - [10107 - What is the Median](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1048)
 - [10116 - Robot Motion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1057)
 - [10130 - SuperSale](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1071)
