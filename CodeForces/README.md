@@ -146,3 +146,5 @@
 - [785A. Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A)
 - [785B. Anton and Classes](http://codeforces.com/contest/785/problem/B)
 - [785C. Anton and Fairy Tale](http://codeforces.com/contest/785/problem/C)
+- [787A. The Monster](http://codeforces.com/contest/787/problem/A)
+- [787B. Not Afraid](http://codeforces.com/contest/787/problem/B)
