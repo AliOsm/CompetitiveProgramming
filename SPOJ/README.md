@@ -8,6 +8,7 @@
 - [DCOWS - Dancing Cows](http://www.spoj.com/problems/DCOWS/)
 - [DEFKIN - Defense of a Kingdom](http://www.spoj.com/problems/DEFKIN/)
 - [DICT - Search in the dictionary!](http://www.spoj.com/problems/DICT/)
+- [DIVSUM - Divisor Summation](http://www.spoj.com/problems/DIVSUM/)
 - [EDIST - Edit distance](http://www.spoj.com/problems/EDIST/)
 - [EDIT - Edit Distance Again](http://www.spoj.com/problems/EDIT/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
