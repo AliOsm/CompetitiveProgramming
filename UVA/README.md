@@ -22,6 +22,7 @@
 - [686 - Goldbach's Conjecture (II)](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=627)
 - [776 - Monkeys in a Regular Forest](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=717)
 - [793 - Network Connections](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=734)
+- [836 - Largest Submatrix](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=777)
 - [929 - Number Maze](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=870)
 - [1124 - Celebrity jeopardy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3565)
 - [1148 - The mysterious X network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3589)
