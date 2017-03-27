@@ -42,6 +42,7 @@
 - [200B. Drinks](http://codeforces.com/problemset/problem/200/B)
 - [208A. Dubstep](http://codeforces.com/problemset/problem/208/A)
 - [214A. System of Equations](http://codeforces.com/problemset/problem/214/A)
+- [230B. T-primes](http://codeforces.com/problemset/problem/230/B)
 - [231A. Team](http://codeforces.com/problemset/problem/231/A)
 - [236A. Boy or Girl](http://codeforces.com/problemset/problem/236/A)
 - [257A. Sockets](http://codeforces.com/contest/257/problem/A)
