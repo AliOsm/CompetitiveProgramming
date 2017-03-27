@@ -1,6 +1,7 @@
 # Problems
 
 - [100 - The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)
+- [108 - Maximum Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44)
 - [111 - History Grading](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=47)
 - [146 - ID Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=82)
 - [164 - String Computer](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=100)
