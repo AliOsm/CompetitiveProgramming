@@ -2,6 +2,7 @@
 
 - [AGGRCOW - Aggressive cows](http://www.spoj.com/problems/AGGRCOW/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
+- [CPRIME - Prime Number Theorem](http://www.spoj.com/problems/CPRIME/)
 - [CRSCNTRY - Cross-country](http://www.spoj.com/problems/CRSCNTRY/)
 - [ELIS - Easy Longest Increasing Subsequence](http://www.spoj.com/problems/ELIS/)
 - [DCOWS - Dancing Cows](http://www.spoj.com/problems/DCOWS/)
