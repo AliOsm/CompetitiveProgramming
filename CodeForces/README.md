@@ -148,3 +148,5 @@
 - [785C. Anton and Fairy Tale](http://codeforces.com/contest/785/problem/C)
 - [787A. The Monster](http://codeforces.com/contest/787/problem/A)
 - [787B. Not Afraid](http://codeforces.com/contest/787/problem/B)
+- [792A. New Bus Route](http://codeforces.com/contest/792/problem/A)
+- [792B. Counting-out Rhyme](http://codeforces.com/contest/792/problem/B)
