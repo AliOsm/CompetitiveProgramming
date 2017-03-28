@@ -151,3 +151,4 @@
 - [787B. Not Afraid](http://codeforces.com/contest/787/problem/B)
 - [792A. New Bus Route](http://codeforces.com/contest/792/problem/A)
 - [792B. Counting-out Rhyme](http://codeforces.com/contest/792/problem/B)
+- [792C. Divide by Three](http://codeforces.com/contest/792/problem/C)
