@@ -12,6 +12,7 @@
 - [EDIST - Edit distance](http://www.spoj.com/problems/EDIST/)
 - [EDIT - Edit Distance Again](http://www.spoj.com/problems/EDIT/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
+- [HOTELS - Hotels Along the Croatian Coast](http://www.spoj.com/problems/HOTELS/)
 - [KNAPSACK - The Knapsack Problem](http://www.spoj.com/problems/KNAPSACK/)
 - [MAIN8_C - Shake Shake Shaky](http://www.spoj.com/problems/MAIN8_C/)
 - [MBLAST - BLAST](http://www.spoj.com/problems/MBLAST/)
