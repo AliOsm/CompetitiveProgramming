@@ -74,6 +74,7 @@
 - [448A. Rewards](http://codeforces.com/problemset/problem/448/A)
 - [454A. Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
+- [489C. Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
 - [514C - Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)
