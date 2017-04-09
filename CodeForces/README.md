@@ -65,6 +65,7 @@
 - [385A. Bear and Raspberry](http://codeforces.com/problemset/problem/385/A)
 - [393A. Nineteen](http://codeforces.com/problemset/problem/393/A)
 - [394A. Counting Sticks](http://codeforces.com/problemset/problem/394/A)
+- [401C. Team](http://codeforces.com/contest/401/problem/C)
 - [405A. Gravity Flip](http://codeforces.com/problemset/problem/405/A)
 - [421A. Pasha and Hamsters](http://codeforces.com/problemset/problem/421/A)
 - [431A - Black Square](http://codeforces.com/problemset/problem/431/A)
