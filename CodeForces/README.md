@@ -76,6 +76,7 @@
 - [454A. Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)
 - [466C. Number of Ways](http://codeforces.com/contest/466/problem/C)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
+- [497C. Exams](http://codeforces.com/problemset/problem/479/C)
 - [489C. Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
