@@ -12,3 +12,5 @@
 - [060B - Choose Integers](http://abc060.contest.atcoder.jp/tasks/abc060_b)
 - [060C - Sentou](http://abc060.contest.atcoder.jp/tasks/arc073_a)
 - [060D - Simple Knapsack](http://abc060.contest.atcoder.jp/tasks/arc073_b)
+- [014A - Cookie Exchanges](http://agc014.contest.atcoder.jp/tasks/agc014_a)
+- [014B - Unplanned Queries](http://agc014.contest.atcoder.jp/tasks/agc014_b)
