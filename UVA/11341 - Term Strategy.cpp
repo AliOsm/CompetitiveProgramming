@@ -32,8 +32,6 @@ int main() {
   scanf("%d", &t);
   
   double res;
-  bool ok;
-  int c = 1;
   while(t-- != 0) {
     scanf("%d%d", &n, &m);
     
@@ -46,16 +44,7 @@ int main() {
       }
     
     res = calc(0, 0, 0);
-    
-    ok = false;
-    for(int i = 0; i < m; ++i)
-      for(int j = 0; j < m; ++j)
-        if(dp[n - 1][i][j] > -1) {
-          ok = true;
-          break;
-        }
-    
-    if(!ok)
+    if(res < 0)
       puts("Peter, you shouldn\'t have played billiard that much.");
     else {
       res = (res = round(res = res / n * 100.0)) / 100;
