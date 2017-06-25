@@ -1,6 +1,9 @@
 # Problems links
 
+- [ACPC10D - Tri graphs](http://www.spoj.com/problems/ACPC10D/)
 - [AGGRCOW - Aggressive cows](http://www.spoj.com/problems/AGGRCOW/)
+- [AMR11A - Magic Grid](http://www.spoj.com/problems/AMR11A/)
+- [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
 - [CODEIT02 - PICK UP DROP ESCAPE](http://www.spoj.com/problems/CODEIT02/)
 - [CPRIME - Prime Number Theorem](http://www.spoj.com/problems/CPRIME/)
@@ -19,7 +22,11 @@
 - [MAIN8_C - Shake Shake Shaky](http://www.spoj.com/problems/MAIN8_C/)
 - [MBLAST - BLAST](http://www.spoj.com/problems/MBLAST/)
 - [MC - Minimum Cost](http://www.spoj.com/problems/MC/)
+- [NSTEPS - Number Steps](http://www.spoj.com/problems/NSTEPS/)
 - [OPCPRIME - Prime Factorization](http://www.spoj.com/problems/OPCPRIME/)
 - [PT07Y - Is it a tree](http://www.spoj.com/problems/PT07Y/)
+- [RMQSQ - Range Minimum Query](http://www.spoj.com/problems/RMQSQ/)
 - [ROADS - Roads](http://www.spoj.com/problems/ROADS/)
+- [RPLN - Negative Score](http://www.spoj.com/problems/RPLN/)
+- [SUMITR - Sums in a Triangle](http://www.spoj.com/problems/SUMITR/)
 - [TOANDFRO - To and Fro](http://www.spoj.com/problems/TOANDFRO/)

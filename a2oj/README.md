@@ -16,6 +16,7 @@
 - [186. Cryptoquote](https://a2oj.com/p?ID=186)
 - [192. The Missing Date](https://a2oj.com/p?ID=192)
 - [193. Omar Loves Candies, Again](https://a2oj.com/p?ID=193)
+- [205. Omar Loves Candies, Again and Again](https://a2oj.com/p?ID=205)
 - [276. K-Palindrome](https://a2oj.com/p?ID=276)
 - [312. Safari](https://a2oj.com/p?ID=312)
 - [323. Last Fibo](https://a2oj.com/p?ID=323)
