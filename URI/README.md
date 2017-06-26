@@ -74,4 +74,3 @@
 - [1607 - Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607)
 - [1763 - Santa's Translator](https://www.urionlinejudge.com.br/judge/en/problems/view/1763)
 - [1855 - Maester's Map](https://www.urionlinejudge.com.br/judge/en/problems/view/1855)
-- [1871 - Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871)
