@@ -24,6 +24,7 @@
 - [1068 - Parenthesis Balance I](https://www.urionlinejudge.com.br/judge/en/problems/view/1068)
 - [1069 - Diamonds and San](https://www.urionlinejudge.com.br/judge/en/problems/view/1069)
 - [1076 - Design Labirints](https://www.urionlinejudge.com.br/judge/en/problems/view/1076)
+- [1081 - DFSr - Depth Hierarchy](https://www.urionlinejudge.com.br/judge/en/problems/view/1081)
 - [1082 - Connected Components](https://www.urionlinejudge.com.br/judge/en/problems/view/1082)
 - [1088 - Bubbles and Buckets](https://www.urionlinejudge.com.br/judge/en/problems/view/1088)
 - [1110 - Throwing Cards Away](https://www.urionlinejudge.com.br/judge/en/problems/view/1110)
