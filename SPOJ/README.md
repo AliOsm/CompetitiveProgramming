@@ -6,6 +6,7 @@
 - [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
 - [CODEIT02 - PICK UP DROP ESCAPE](http://www.spoj.com/problems/CODEIT02/)
+- [CODEM5 - Problem5](http://www.spoj.com/problems/CODEM5/)
 - [CPRIME - Prime Number Theorem](http://www.spoj.com/problems/CPRIME/)
 - [CRSCNTRY - Cross-country](http://www.spoj.com/problems/CRSCNTRY/)
 - [DCOWS - Dancing Cows](http://www.spoj.com/problems/DCOWS/)

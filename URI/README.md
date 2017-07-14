@@ -69,6 +69,7 @@
 - [1424 - Easy Problem from Rujia Liu?](https://www.urionlinejudge.com.br/judge/en/problems/view/1424)
 - [1430 - Jingle Composing](https://www.urionlinejudge.com.br/judge/en/problems/view/1430)
 - [1451 - Broken Keyboard](https://www.urionlinejudge.com.br/judge/en/problems/view/1451)
+- [1466 - Level Order Tree Traversal](https://www.urionlinejudge.com.br/judge/en/problems/view/1466)
 - [1467 - Zero or One](https://www.urionlinejudge.com.br/judge/en/problems/view/1467)
 - [1469 - Boss](https://www.urionlinejudge.com.br/judge/en/problems/view/1469)
 - [1548 - Canteen Queue](https://www.urionlinejudge.com.br/judge/en/problems/view/1548)

@@ -47,6 +47,7 @@
 - [Project Euler #10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010)
 - [Project Euler #11: Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)
 - [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)
+- [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)
 - [Repeated String](https://www.hackerrank.com/challenges/repeated-string)
 - [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world)
 - [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)

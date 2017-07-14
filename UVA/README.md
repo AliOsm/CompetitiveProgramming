@@ -38,6 +38,7 @@
 - [836 - Largest Submatrix](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=777)
 - [900 - Brick Wall Patterns](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=841)
 - [929 - Number Maze](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=870)
+- [990 - Diving for Gold](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=931)
 - [1121 - Subsequence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3562)
 - [1124 - Celebrity jeopardy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3565)
 - [1148 - The mysterious X network](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3589)
