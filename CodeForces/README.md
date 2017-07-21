@@ -217,3 +217,4 @@
 - [825B. Five-In-a-Row](http://codeforces.com/contest/825/problem/B)
 - [825C. Multi-judge Solving](http://codeforces.com/contest/825/problem/C)
 - [825D. Suitable Replacement](http://codeforces.com/contest/825/problem/D)
+- [825E. Minimal Labels](http://codeforces.com/contest/825/problem/E)
