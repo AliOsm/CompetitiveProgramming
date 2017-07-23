@@ -18,6 +18,7 @@
 - [ELIS - Easy Longest Increasing Subsequence](http://www.spoj.com/problems/ELIS/)
 - [EPALIN - Extend to Palindrome](http://www.spoj.com/problems/EPALIN/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
+- [GSS4 - Can you answer these queries IV](http://www.spoj.com/problems/GSS4/)
 - [HOTELS - Hotels Along the Croatian Coast](http://www.spoj.com/problems/HOTELS/)
 - [KNAPSACK - The Knapsack Problem](http://www.spoj.com/problems/KNAPSACK/)
 - [MAIN8_C - Shake Shake Shaky](http://www.spoj.com/problems/MAIN8_C/)

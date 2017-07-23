@@ -41,4 +41,5 @@
 - [361. Geeks List](https://a2oj.com/p?ID=361)
 - [362. Aki](https://a2oj.com/p?ID=362)
 - [363. New Cell Phone](https://a2oj.com/p?ID=363)
+- [388. Operators](https://www.a2oj.com/p?ID=388)
 - [395. Amazing People](https://a2oj.com/p?ID=395)

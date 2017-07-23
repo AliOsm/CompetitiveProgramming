@@ -110,6 +110,7 @@
 - [486C. Palindrome Transformation](http://codeforces.com/contest/486/problem/C)
 - [489C. Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)
 - [490A. Team Olympiad](http://codeforces.com/problemset/problem/490/A)
+- [490D. Chocolate](http://codeforces.com/contest/490/problem/D)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510A. Fox And Snake](http://codeforces.com/problemset/problem/510/A)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
