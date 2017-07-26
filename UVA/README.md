@@ -50,6 +50,7 @@
 - [10003 - Cutting Sticks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=944)
 - [10004 - Bicoloring](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)
 - [10008 - What's Cryptanalysis?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=949)
+- [10009 - All Roads Lead Where](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=950)
 - [10034 - Freckles](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
 - [10036 - Divisibility](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977)
 - [10062 - Tell me the frequencies!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1003)
