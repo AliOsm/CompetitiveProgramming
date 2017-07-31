@@ -219,3 +219,7 @@
 - [825C. Multi-judge Solving](http://codeforces.com/contest/825/problem/C)
 - [825D. Suitable Replacement](http://codeforces.com/contest/825/problem/D)
 - [825E. Minimal Labels](http://codeforces.com/contest/825/problem/E)
+- [832A. Sasha and Sticks](http://codeforces.com/contest/832/problem/A)
+- [832B. Petya and Exam](http://codeforces.com/contest/832/problem/B)
+- [834A. The Useless Toy](http://codeforces.com/contest/834/problem/A)
+- [834B. The Festive Evening](http://codeforces.com/contest/834/problem/B)
