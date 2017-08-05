@@ -99,6 +99,7 @@
 - [10924 - Prime Words](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1865)
 - [10929 - You can say 11](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1870)
 - [10935 - Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1876)
+- [10943 - How do you add?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1884)
 - [10946 - You want what filled?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1887)
 - [10963 - The Swallowing Ground](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1904)
 - [10986 - Sending email](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1927)
