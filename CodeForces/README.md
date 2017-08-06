@@ -230,3 +230,4 @@
 - [835B. The number on the board](http://codeforces.com/contest/835/problem/B)
 - [837A. Text Volume](http://codeforces.com/contest/837/problem/A)
 - [837B. Flag of Berland](http://codeforces.com/contest/837/problem/B)
+- [837C. Two Seals](http://codeforces.com/contest/837/problem/C)
