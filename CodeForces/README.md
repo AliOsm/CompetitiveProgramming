@@ -226,3 +226,7 @@
 - [832B. Petya and Exam](http://codeforces.com/contest/832/problem/B)
 - [834A. The Useless Toy](http://codeforces.com/contest/834/problem/A)
 - [834B. The Festive Evening](http://codeforces.com/contest/834/problem/B)
+- [835A. Key races](http://codeforces.com/contest/835/problem/A)
+- [835B. The number on the board](http://codeforces.com/contest/835/problem/B)
+- [837A. Text Volume](http://codeforces.com/contest/837/problem/A)
+- [837B. Flag of Berland](http://codeforces.com/contest/837/problem/B)
