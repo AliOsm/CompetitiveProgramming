@@ -5,3 +5,5 @@
 - [26. Limited Vocabulary](https://csacademy.com/contest/round-26/#task/limited-vocabulary)
 - [26. Odd Pair Sums](https://csacademy.com/contest/round-26/#task/odd-pair-sums)
 - [27. Backpack Packing](https://csacademy.com/contest/round-27/#task/backpack-packing)
+- [40. Erase Value](https://csacademy.com/contest/round-40/task/erase-value)
+- [40. Move the Bishop](https://csacademy.com/contest/round-40/task/move-the-bishop)
