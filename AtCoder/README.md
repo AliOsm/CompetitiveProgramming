@@ -14,3 +14,7 @@
 - [060D - Simple Knapsack](http://abc060.contest.atcoder.jp/tasks/arc073_b)
 - [014A - Cookie Exchanges](http://agc014.contest.atcoder.jp/tasks/agc014_a)
 - [014B - Unplanned Queries](http://agc014.contest.atcoder.jp/tasks/agc014_b)
+- [072A - Sandglass2](http://abc072.contest.atcoder.jp/tasks/abc072_a)
+- [072B - OddString](http://abc072.contest.atcoder.jp/tasks/abc072_b)
+- [072C - Together](http://abc072.contest.atcoder.jp/tasks/arc082_a)
+- [072D - Derangement](http://abc072.contest.atcoder.jp/tasks/arc082_b)
