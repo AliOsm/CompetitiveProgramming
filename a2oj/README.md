@@ -3,6 +3,7 @@
 - [1. Omar](https://a2oj.com/p?ID=1)
 - [6. Balloons Colors](https://a2oj.com/p?ID=6)
 - [7. NASSA's Robot](https://a2oj.com/p?ID=7)
+- [10. Omar Loves Candies](https://a2oj.com/p?ID=10)
 - [14. The New President](https://a2oj.com/p?ID=14)
 - [17. Kids Love Candies](https://a2oj.com/p?ID=17)
 - [22. Contest Hall Preparation](https://a2oj.com/p?ID=22)
