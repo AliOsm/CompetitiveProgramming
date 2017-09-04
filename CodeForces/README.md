@@ -248,3 +248,5 @@
 - [842B. Gleb And Pizza](http://codeforces.com/contest/842/problem/B)
 - [845A. Chess Tourney](http://codeforces.com/contest/845/problem/A)
 - [845B. Luba And The Ticket](http://codeforces.com/contest/845/problem/B)
+- [851A. Arpa and a research in Mexican wave](http://codeforces.com/contest/851/problem/A)
+- [851B. Arpa and an exam about geometry](http://codeforces.com/contest/851/problem/B)
