@@ -11,6 +11,7 @@
 - [122. Teams](https://a2oj.com/p?ID=122)
 - [132. Anagram String](https://a2oj.com/p?ID=132)
 - [137. Cryptography](https://a2oj.com/p?ID=137)
+- [142. Chess Knights](https://a2oj.com/p?ID=142)
 - [152. Ahmad & Sally](https://a2oj.com/p?ID=152)
 - [159. Nth Smallest Value](https://a2oj.com/p?ID=159)
 - [168. Parentheses](https://a2oj.com/p?ID=168)
