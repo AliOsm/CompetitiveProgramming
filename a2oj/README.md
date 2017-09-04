@@ -8,6 +8,7 @@
 - [17. Kids Love Candies](https://a2oj.com/p?ID=17)
 - [22. Contest Hall Preparation](https://a2oj.com/p?ID=22)
 - [24. Arabic and English](https://www.a2oj.com/p?ID=24)
+- [122. Teams](https://a2oj.com/p?ID=122)
 - [132. Anagram String](https://a2oj.com/p?ID=132)
 - [137. Cryptography](https://a2oj.com/p?ID=137)
 - [152. Ahmad & Sally](https://a2oj.com/p?ID=152)
