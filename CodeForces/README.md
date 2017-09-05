@@ -201,6 +201,7 @@
 - [757A. Gotta Catch Em' All!](http://codeforces.com/contest/757/problem/A)
 - [766A. Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A)
 - [766D. Mahmoud and a Dictionary](http://codeforces.com/contest/766/problem/D)
+- [767D. Cartons of milk](http://codeforces.com/problemset/problem/767/D)
 - [779A. Pupils Redistribution](http://codeforces.com/contest/779/problem/A)
 - [779B. Weird Rounding](http://codeforces.com/contest/779/problem/B)
 - [779C. Dishonest Sellers](http://codeforces.com/contest/779/problem/C)
