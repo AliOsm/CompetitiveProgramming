@@ -69,6 +69,7 @@
 - [268A. Games](http://codeforces.com/problemset/problem/268/A)
 - [268C. Beautiful Sets of Points](http://codeforces.com/contest/268/problem/C)
 - [271A. Beautiful Year](http://codeforces.com/problemset/problem/271/A)
+- [279B. Books](http://codeforces.com/problemset/problem/279/B)
 - [281A. Word Capitalization](http://codeforces.com/problemset/problem/281/A)
 - [282A. Bit++](http://codeforces.com/problemset/problem/282/A)
 - [298A. Snow Footprints](http://codeforces.com/contest/298/problem/A)
