@@ -139,6 +139,7 @@
 - [552C. Vanya and Scales](http://codeforces.com/contest/552/problem/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
 - [577B. Modulo Sum](http://codeforces.com/contest/577/problem/B)
+- [580B. Kefa and Company](http://codeforces.com/problemset/problem/580/B)
 - [591B. Rebranding](http://codeforces.com/contest/591/problem/B)
 - [599A. Patrick and Shopping](http://codeforces.com/problemset/problem/599/A)
 - [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
