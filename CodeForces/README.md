@@ -164,6 +164,7 @@
 - [691D. Swaps in Permutation](http://codeforces.com/contest/691/problem/D)
 - [701A. Cards](http://codeforces.com/problemset/problem/701/A)
 - [702A. Maximum Increase](http://codeforces.com/problemset/problem/702/A)
+- [702B. Powers of Two](http://codeforces.com/problemset/problem/702/B)
 - [705A. Hulk](http://codeforces.com/problemset/problem/705/A)
 - [706A. Beru-taxi](http://codeforces.com/problemset/problem/706/A)
 - [706B. Interesting drink](http://codeforces.com/problemset/problem/706/B)
