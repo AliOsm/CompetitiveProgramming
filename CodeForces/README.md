@@ -109,6 +109,7 @@
 - [459A. Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)
 - [466A. Cheap Travel](http://codeforces.com/contest/466/problem/A)
 - [466C. Number of Ways](http://codeforces.com/contest/466/problem/C)
+- [467B. Fedor and New Game](http://codeforces.com/problemset/problem/467/B)
 - [469A. I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A)
 - [469D. Two Sets](http://codeforces.com/contest/469/problem/D)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
