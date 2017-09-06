@@ -15,6 +15,7 @@
 - [DEFKIN - Defense of a Kingdom](http://www.spoj.com/problems/DEFKIN/)
 - [DICT - Search in the dictionary!](http://www.spoj.com/problems/DICT/)
 - [DIVSUM - Divisor Summation](http://www.spoj.com/problems/DIVSUM/)
+- [EASUDOKU - Easy sudoku](http://www.spoj.com/problems/EASUDOKU/)
 - [EDIST - Edit distance](http://www.spoj.com/problems/EDIST/)
 - [EDIT - Edit Distance Again](http://www.spoj.com/problems/EDIT/)
 - [ELIS - Easy Longest Increasing Subsequence](http://www.spoj.com/problems/ELIS/)
