@@ -114,6 +114,7 @@
 - [469D. Two Sets](http://codeforces.com/contest/469/problem/D)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
 - [476A. Dreamoon and Stairs](http://codeforces.com/contest/476/problem/A)
+- [476B. Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B)
 - [478C. Table Decorations](http://codeforces.com/contest/478/problem/C)
 - [478D. Red-Green Towers](http://codeforces.com/contest/478/problem/D)
 - [479A. Expression](http://codeforces.com/contest/479/problem/A)
