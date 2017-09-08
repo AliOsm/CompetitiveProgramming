@@ -54,6 +54,7 @@
 - [192A. Funky Numbers](http://codeforces.com/problemset/problem/192/A)
 - [192B. Walking in the Rain](http://codeforces.com/problemset/problem/192/B)
 - [200B. Drinks](http://codeforces.com/problemset/problem/200/B)
+- [205B. Little Elephant and Sorting](http://codeforces.com/problemset/problem/205/B)
 - [208A. Dubstep](http://codeforces.com/problemset/problem/208/A)
 - [214A. System of Equations](http://codeforces.com/problemset/problem/214/A)
 - [227A. Where do I Turn?](http://codeforces.com/contest/227/problem/A)
