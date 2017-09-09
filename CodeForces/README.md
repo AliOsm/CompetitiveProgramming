@@ -41,6 +41,7 @@
 - [115A. Party](http://codeforces.com/problemset/problem/115/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [122A. Lucky Division](http://codeforces.com/problemset/problem/122/A)
+- [122C. Lucky Sum](http://codeforces.com/contest/122/problem/C)
 - [124B. Permutations](http://codeforces.com/problemset/problem/124/B)
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [133E. Logo Turtle](http://codeforces.com/contest/133/problem/E)
