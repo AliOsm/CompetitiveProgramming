@@ -177,6 +177,7 @@
 - [705A. Hulk](http://codeforces.com/problemset/problem/705/A)
 - [706A. Beru-taxi](http://codeforces.com/problemset/problem/706/A)
 - [706B. Interesting drink](http://codeforces.com/problemset/problem/706/B)
+- [706D. Vasiliy's Multiset](http://codeforces.com/contest/706/problem/D)
 - [707A. Brain's Photos](http://codeforces.com/problemset/problem/707/A)
 - [709B. Checkpoints](http://codeforces.com/problemset/problem/709/C)
 - [719A. Vitya in the Countryside](http://codeforces.com/problemset/problem/719/A)
