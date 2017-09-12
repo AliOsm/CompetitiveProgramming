@@ -268,3 +268,4 @@
 - [846D. Monitor](http://codeforces.com/contest/846/problem/D)
 - [851A. Arpa and a research in Mexican wave](http://codeforces.com/contest/851/problem/A)
 - [851B. Arpa and an exam about geometry](http://codeforces.com/contest/851/problem/B)
+- [852G. Bathroom terminal](http://codeforces.com/contest/852/problem/G)
