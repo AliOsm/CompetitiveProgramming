@@ -12,6 +12,7 @@
 - [23A. You're Given a String...](http://codeforces.com/problemset/problem/23/A)
 - [25A. IQ test](http://codeforces.com/problemset/problem/25/A)
 - [25B. Phone numbers](http://codeforces.com/problemset/problem/25/B)
+- [25C. Roads in Berland](http://codeforces.com/contest/25/problem/C)
 - [26A. Almost Prime](http://codeforces.com/problemset/problem/26/A)
 - [27A. Next Test](http://codeforces.com/problemset/problem/27/A)
 - [32B. Borze](http://codeforces.com/problemset/problem/32/B)
