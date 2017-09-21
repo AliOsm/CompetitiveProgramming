@@ -128,6 +128,7 @@
 - [478D. Red-Green Towers](http://codeforces.com/contest/478/problem/D)
 - [479A. Expression](http://codeforces.com/contest/479/problem/A)
 - [479C. Exams](http://codeforces.com/problemset/problem/479/C)
+- [486A. Calculating Function](http://codeforces.com/contest/486/problem/A)
 - [486C. Palindrome Transformation](http://codeforces.com/contest/486/problem/C)
 - [489C. Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)
 - [490A. Team Olympiad](http://codeforces.com/problemset/problem/490/A)
