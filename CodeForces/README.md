@@ -40,6 +40,7 @@
 - [110A. Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)
 - [112A. Petya and Strings](http://codeforces.com/contest/112/problem/A)
 - [115A. Party](http://codeforces.com/problemset/problem/115/A)
+- [116A. Tram](http://codeforces.com/problemset/problem/116/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [118D. Caesar's Legions](http://codeforces.com/contest/118/problem/D)
 - [122A. Lucky Division](http://codeforces.com/problemset/problem/122/A)
