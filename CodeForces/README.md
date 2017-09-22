@@ -274,3 +274,6 @@
 - [851A. Arpa and a research in Mexican wave](http://codeforces.com/contest/851/problem/A)
 - [851B. Arpa and an exam about geometry](http://codeforces.com/contest/851/problem/B)
 - [852G. Bathroom terminal](http://codeforces.com/contest/852/problem/G)
+- [862A. Mahmoud and Ehab and the MEX](http://codeforces.com/contest/862/problem/A)
+- [862B. Mahmoud and Ehab and the bipartiteness](http://codeforces.com/contest/862/problem/B)
+- [863A. Quasi-palindrome](http://codeforces.com/contest/863/problem/A)
