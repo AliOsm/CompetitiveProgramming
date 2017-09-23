@@ -186,6 +186,7 @@
 - [706D. Vasiliy's Multiset](http://codeforces.com/contest/706/problem/D)
 - [707A. Brain's Photos](http://codeforces.com/problemset/problem/707/A)
 - [709B. Checkpoints](http://codeforces.com/problemset/problem/709/C)
+- [709C. Letters Cyclic Shift](http://codeforces.com/contest/709/problem/C)
 - [719A. Vitya in the Countryside](http://codeforces.com/problemset/problem/719/A)
 - [722A. Broken Clock](http://codeforces.com/problemset/problem/722/A)
 - [721A. One-dimensional Japanese Crossword](http://codeforces.com/problemset/problem/721/A)

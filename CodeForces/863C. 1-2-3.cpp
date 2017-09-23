@@ -5,8 +5,8 @@ using namespace std;
 typedef long long ll;
 
 int const N = 4;
-long long k, a, b, aa[N][N], bb[N][N], ra, rb, tmpa, tmpb, loops, c1, c2;
-bool vis1[N][N], vis2[N][N];
+ll k, a, b, aa[N][N], bb[N][N], ra, rb, tmpa, tmpb, loops, c1, c2;
+bool vis[N][N];
 vector<int> all;
 
 int main() {
@@ -18,7 +18,7 @@ int main() {
 		for(int j = 1; j < N; ++j)
 			scanf("%lld", &bb[i][j]);
 
-	while(k > 0 && !vis1[a][b]) {
+	while(k > 0 && !vis[a][b]) {
 		if(a != b) {
 			if((a == 3 && b == 2) || (a == 2 && b == 1) || (a == 1 && b == 3))
 				++ra;
@@ -26,7 +26,7 @@ int main() {
 				++rb;
 		}
 
-		vis1[a][b] = true;
+		vis[a][b] = true;
 
 		tmpa = aa[a][b];
 		tmpb = bb[a][b];
@@ -38,7 +38,9 @@ int main() {
 	}
 
 	if(k > 0) {
-		while(!vis2[a][b]) {
+		memset(vis, false, sizeof vis);
+
+		while(!vis[a][b]) {
 			if(a == b)
 				all.push_back(0);
 			else if((a == 3 && b == 2) || (a == 2 && b == 1) || (a == 1 && b == 3))
@@ -46,7 +48,7 @@ int main() {
 			else
 				all.push_back(2);
 
-			vis2[a][b] = true;
+			vis[a][b] = true;
 
 			tmpa = aa[a][b];
 			tmpb = bb[a][b];
