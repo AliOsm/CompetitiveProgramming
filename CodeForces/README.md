@@ -277,3 +277,4 @@
 - [862A. Mahmoud and Ehab and the MEX](http://codeforces.com/contest/862/problem/A)
 - [862B. Mahmoud and Ehab and the bipartiteness](http://codeforces.com/contest/862/problem/B)
 - [863A. Quasi-palindrome](http://codeforces.com/contest/863/problem/A)
+- [863C. 1-2-3](http://codeforces.com/contest/863/problem/C)
