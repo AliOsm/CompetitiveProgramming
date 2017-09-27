@@ -10,3 +10,4 @@
 - [44. Frequent Numbers](https://csacademy.com/contest/round-44/task/frequent-numbers)
 - [44. Square Cover](https://csacademy.com/contest/round-44/task/square-cover)
 - [44. Check DFS](https://csacademy.com/contest/round-44/task/check-dfs)
+- [49. Odd Sum](https://csacademy.com/contest/round-49/task/odd-sum)
