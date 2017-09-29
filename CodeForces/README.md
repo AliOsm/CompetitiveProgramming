@@ -112,6 +112,7 @@
 - [441C. Valera and Tubes](http://codeforces.com/contest/441/problem/C)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
 - [448A. Rewards](http://codeforces.com/problemset/problem/448/A)
+- [448D. Multiplication Table](http://codeforces.com/contest/448/problem/D)
 - [449B. Jzzhu and Cities](http://codeforces.com/contest/449/problem/B)
 - [451A. Game With Sticks](http://codeforces.com/contest/451/problem/A)
 - [452A. Eevee](http://codeforces.com/problemset/problem/452/A)
