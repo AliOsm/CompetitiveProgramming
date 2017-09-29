@@ -24,6 +24,7 @@
 - [312. Safari](https://a2oj.com/p?ID=312)
 - [323. Last Fibo](https://a2oj.com/p?ID=323)
 - [326. Pizzas](https://a2oj.com/p?ID=326)
+- [327. Mission](https://a2oj.com/p?ID=327)
 - [343. Hello](https://a2oj.com/p?ID=343)
 - [344. Add Two numbers](https://a2oj.com/p?ID=344)
 - [345. Subtract two numbers](https://a2oj.com/p?ID=345)
