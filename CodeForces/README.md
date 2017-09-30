@@ -156,6 +156,7 @@
 - [551B. ZgukistringZ](http://codeforces.com/contest/551/problem/B)
 - [552C. Vanya and Scales](http://codeforces.com/contest/552/problem/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
+- [577A. Multiplication Table](http://codeforces.com/problemset/problem/577/A)
 - [577B. Modulo Sum](http://codeforces.com/contest/577/problem/B)
 - [580B. Kefa and Company](http://codeforces.com/problemset/problem/580/B)
 - [580C. Kefa and Park](http://codeforces.com/contest/580/problem/C)
