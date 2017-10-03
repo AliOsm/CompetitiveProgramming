@@ -35,6 +35,7 @@
 - [RMQSQ - Range Minimum Query](http://www.spoj.com/problems/RMQSQ/)
 - [ROADS - Roads](http://www.spoj.com/problems/ROADS/)
 - [RPLN - Negative Score](http://www.spoj.com/problems/RPLN/)
+- [SUBXOR - SubXor](http://www.spoj.com/problems/SUBXOR/)
 - [SUMFOUR - 4 values whose sum is 0](http://www.spoj.com/problems/SUMFOUR/)
 - [SUMITR - Sums in a Triangle](http://www.spoj.com/problems/SUMITR/)
 - [TOANDFRO - To and Fro](http://www.spoj.com/problems/TOANDFRO/)
