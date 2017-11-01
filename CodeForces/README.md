@@ -99,6 +99,7 @@
 - [339A. Helpful Maths](http://codeforces.com/problemset/problem/339/A)
 - [339C. Xenia and Weights](http://codeforces.com/contest/339/problem/C)
 - [349B. Color the Fenc](http://codeforces.com/problemset/problem/349/B)
+- [350C. Bombs](http://codeforces.com/contest/350/problem/C)
 - [358A. Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)
 - [359D. Pair of Numbers](http://codeforces.com/contest/359/problem/D)
 - [363B. Fence](http://codeforces.com/contest/363/problem/B)
