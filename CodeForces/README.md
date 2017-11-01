@@ -89,6 +89,7 @@
 - [279B. Books](http://codeforces.com/problemset/problem/279/B)
 - [281A. Word Capitalization](http://codeforces.com/problemset/problem/281/A)
 - [282A. Bit++](http://codeforces.com/problemset/problem/282/A)
+- [285B. Find Marble](http://codeforces.com/contest/285/problem/B)
 - [298A. Snow Footprints](http://codeforces.com/contest/298/problem/A)
 - [304A. Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)
 - [313A. Ilya and Bank Account](http://codeforces.com/contest/313/problem/A)
