@@ -2,6 +2,7 @@
 
 - [ABCDEF - ABCDEF](http://www.spoj.com/problems/ABCDEF/)
 - [ACPC10D - Tri graphs](http://www.spoj.com/problems/ACPC10D/)
+- [ADATEAMS - Ada and Teams](http://www.spoj.com/problems/ADATEAMS/)
 - [AGGRCOW - Aggressive cows](http://www.spoj.com/problems/AGGRCOW/)
 - [AMR11A - Magic Grid](http://www.spoj.com/problems/AMR11A/)
 - [ATOMS - Atoms in the Lab](http://www.spoj.com/problems/ATOMS/)
