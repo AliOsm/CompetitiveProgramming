@@ -307,3 +307,5 @@
 - [864A. Fair Game](http://codeforces.com/contest/864/problem/A)
 - [864B. Polycarp and Letters](http://codeforces.com/contest/864/problem/B)
 - [864C. Bus](http://codeforces.com/contest/864/problem/C)
+- [890A. ACM ICPC](http://codeforces.com/contest/890/problem/A)
+- [890B. Vlad and Cafes](http://codeforces.com/contest/890/problem/B)
