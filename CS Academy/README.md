@@ -11,3 +11,5 @@
 - [44. Square Cover](https://csacademy.com/contest/round-44/task/square-cover)
 - [44. Check DFS](https://csacademy.com/contest/round-44/task/check-dfs)
 - [49. Odd Sum](https://csacademy.com/contest/round-49/task/odd-sum)
+- [59. No Repeat](https://csacademy.com/contest/round-59/task/no-repeat)
+- [59. Triangular Matrix](https://csacademy.com/contest/round-59/task/triangular-matrix)
