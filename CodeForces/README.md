@@ -316,3 +316,7 @@
 - [864C. Bus](http://codeforces.com/contest/864/problem/C)
 - [890A. ACM ICPC](http://codeforces.com/contest/890/problem/A)
 - [890B. Vlad and Cafes](http://codeforces.com/contest/890/problem/B)
+- [898A. Rounding](http://codeforces.com/contest/898/problem/A)
+- [898B. Proper Nutrition](http://codeforces.com/contest/898/problem/B)
+- [898C. Phone Numbers](http://codeforces.com/contest/898/problem/C)
+- [898E. Squares and not squares](http://codeforces.com/contest/898/problem/E)
