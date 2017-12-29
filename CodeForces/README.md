@@ -320,3 +320,5 @@
 - [898B. Proper Nutrition](http://codeforces.com/contest/898/problem/B)
 - [898C. Phone Numbers](http://codeforces.com/contest/898/problem/C)
 - [898E. Squares and not squares](http://codeforces.com/contest/898/problem/E)
+- [908A. New Year and Counting Cards](http://codeforces.com/contest/908/problem/A)
+- [908B. New Year and Buggy Bot](http://codeforces.com/contest/908/problem/B)
