@@ -8,27 +8,16 @@ int main() {
 	for(int i = 0; i < n; ++i)
 		scanf("%d", a + i);
 
+	sort(a, a + n);
+	reverse(a, a + n);
 	for(int i = 0; i < n; ++i) {
 		if(m <= 0)
 			break;
-		int mx = -1, idx;
-		for(int j = 0; j < n; ++j) {
-			if(a[j] > mx) {
-				mx = a[j];
-				idx = j;
-			}
-		}
-		if(mx != -1) {
-			a[idx] = -1;
-			m -= mx;
-		}
+		m -= a[i];
 		++res;
 	}
-
-	if(m <= 0)
-		printf("%d\n", res);
-	else
-		puts("-1");
+	
+	printf("%d\n", res);
 
 	return 0;
 }
