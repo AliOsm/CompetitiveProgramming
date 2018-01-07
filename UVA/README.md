@@ -20,6 +20,7 @@
 - [455 - Periodic Strings](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=396)
 - [459 - Graph Connectivity](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=400)
 - [477 - Points in Figures: Rectangles and Circles](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=418)
+- [483 - Word Scramble](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=424)
 - [484 - The Department of Redundancy Department](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=425)
 - [499 - What's The Frequency, Kenneth?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=440)
 - [507 - Jill Rides Again](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=448)
