@@ -253,6 +253,7 @@
 - [752A. Santa Claus and a Place in a Class](http://codeforces.com/contest/752/problem/A)
 - [754B. Ilya and tic-tac-toe game](http://codeforces.com/problemset/problem/754/B)
 - [757A. Gotta Catch Em' All!](http://codeforces.com/contest/757/problem/A)
+- [762A. k-th divisor](http://codeforces.com/problemset/problem/762/A)
 - [766A. Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A)
 - [766D. Mahmoud and a Dictionary](http://codeforces.com/contest/766/problem/D)
 - [767D. Cartons of milk](http://codeforces.com/problemset/problem/767/D)
