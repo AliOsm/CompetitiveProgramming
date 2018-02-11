@@ -332,3 +332,8 @@
 - [913A - Modular Exponentiation](http://codeforces.com/problemset/problem/913/A)
 - [913B. Christmas Spruce](http://codeforces.com/problemset/problem/913/B)
 - [915A. Garden](http://codeforces.com/problemset/problem/915/A)
+- [918A. Eleven](http://codeforces.com/problemset/problem/918/A)
+- [918B. Radio Station](http://codeforces.com/problemset/problem/918/B)
+- [920A. Water The Garden](http://codeforces.com/problemset/problem/920/A)
+- [920B. Tea Queue](http://codeforces.com/problemset/problem/920/B)
+- [920C. Swap Adjacent Elements](http://codeforces.com/problemset/problem/920/C)
