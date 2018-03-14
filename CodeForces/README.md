@@ -369,3 +369,6 @@
 - [940B. Our Tanya is Crying Out Loud](http://codeforces.com/contest/940/problem/B)
 - [940C. Phone Numbers](http://codeforces.com/contest/940/problem/C)
 - [940D. Alena And The Heater](http://codeforces.com/contest/940/problem/D)
+- [946A. Partition](http://codeforces.com/contest/946/problem/A)
+- [946B. Weird Subtraction Process](http://codeforces.com/contest/946/problem/B)
+- [946C. String Transformation](http://codeforces.com/contest/946/problem/C)
