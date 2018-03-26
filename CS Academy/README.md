@@ -7,6 +7,7 @@
 - [27. Backpack Packing](https://csacademy.com/contest/round-27/#task/backpack-packing)
 - [40. Erase Value](https://csacademy.com/contest/round-40/task/erase-value)
 - [40. Move the Bishop](https://csacademy.com/contest/round-40/task/move-the-bishop)
+- [43. Bad Triplet](https://csacademy.com/contest/round-43/task/bad-triplet)
 - [44. Frequent Numbers](https://csacademy.com/contest/round-44/task/frequent-numbers)
 - [44. Square Cover](https://csacademy.com/contest/round-44/task/square-cover)
 - [44. Check DFS](https://csacademy.com/contest/round-44/task/check-dfs)

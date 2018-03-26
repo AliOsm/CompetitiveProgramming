@@ -372,3 +372,6 @@
 - [946A. Partition](http://codeforces.com/contest/946/problem/A)
 - [946B. Weird Subtraction Process](http://codeforces.com/contest/946/problem/B)
 - [946C. String Transformation](http://codeforces.com/contest/946/problem/C)
+- [946D. Timetable](http://codeforces.com/contest/946/problem/D)
+- [957B. Mystical Mosaic](http://codeforces.com/contest/957/problem/B)
+- [957C. Three-level Laser](http://codeforces.com/contest/957/problem/C)
