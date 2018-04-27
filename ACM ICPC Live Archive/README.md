@@ -2,6 +2,7 @@
 
 - [2247 - Prime Digital Roots](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=248)
 - [3883 - Prime Gap](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=1884)
+- [4262 - Road Networks](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2263)
 - [4736 - Probability One](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2737)
 - [4919 - Judges' Time Calculation](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2920)
 - [4920 - Mad Scientist](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2921)

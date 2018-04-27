@@ -48,6 +48,7 @@
 - [116A. Tram](http://codeforces.com/problemset/problem/116/A)
 - [118A. String Task](http://codeforces.com/problemset/problem/118/A)
 - [118D. Caesar's Legions](http://codeforces.com/contest/118/problem/D)
+- [118E. Bertown roads](http://codeforces.com/problemset/problem/118/E)
 - [122A. Lucky Division](http://codeforces.com/problemset/problem/122/A)
 - [122C. Lucky Sum](http://codeforces.com/contest/122/problem/C)
 - [124B. Permutations](http://codeforces.com/problemset/problem/124/B)
