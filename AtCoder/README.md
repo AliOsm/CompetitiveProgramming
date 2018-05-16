@@ -18,3 +18,5 @@
 - [072B - OddString](http://abc072.contest.atcoder.jp/tasks/abc072_b)
 - [072C - Together](http://abc072.contest.atcoder.jp/tasks/arc082_a)
 - [072D - Derangement](http://abc072.contest.atcoder.jp/tasks/arc082_b)
+- [097C - K-th Substring](https://arc097.contest.atcoder.jp/tasks/arc097_a)
+- [097D - Equals](https://arc097.contest.atcoder.jp/tasks/arc097_b)

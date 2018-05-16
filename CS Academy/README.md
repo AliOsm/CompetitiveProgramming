@@ -15,3 +15,5 @@
 - [49. Odd Sum](https://csacademy.com/contest/round-49/task/odd-sum)
 - [59. No Repeat](https://csacademy.com/contest/round-59/task/no-repeat)
 - [59. Triangular Matrix](https://csacademy.com/contest/round-59/task/triangular-matrix)
+- [79. Milk and Bread](https://csacademy.com/contest/round-79/task/milk-and-bread/)
+- [79. Cats and Dogs](https://csacademy.com/contest/round-79/task/cats-and-dogs/)
