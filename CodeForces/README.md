@@ -302,6 +302,7 @@
 - [805A. Fake NP](http://codeforces.com/contest/805/problem/A)
 - [805B. 3-palindrome](http://codeforces.com/contest/805/problem/B)
 - [805C. Find Amir](http://codeforces.com/contest/805/problem/C)
+- [812C. Sagheer and Nubian Market](http://codeforces.com/contest/812/problem/C)
 - [813A. The Contest](http://codeforces.com/contest/813/problem/A)
 - [813B. The Golden Age](http://codeforces.com/contest/813/problem/B)
 - [817C. Really Big Numbers](http://codeforces.com/contest/817/problem/C)
