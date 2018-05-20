@@ -64,6 +64,7 @@
 - [158A. Next Round](http://codeforces.com/problemset/problem/158/A)
 - [158B. Taxi](http://codeforces.com/contest/158/problem/B)
 - [160A. Twins](http://codeforces.com/problemset/problem/160/A)
+- [168D. Wizards and Huge Prize](http://codeforces.com/contest/168/problem/D)
 - [182D. Common Divisors](http://codeforces.com/contest/182/problem/D)
 - [186C. Plant](http://codeforces.com/contest/186/problem/C)
 - [189A. Cut Ribbon](http://codeforces.com/contest/189/problem/A)
