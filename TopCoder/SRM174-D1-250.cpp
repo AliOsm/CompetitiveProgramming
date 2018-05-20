@@ -1,3 +1,9 @@
+/*
+	idea:
+		- We can do brute force and each time try to put one more person in the room
+			and calculate the probability while we doing the brute force.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

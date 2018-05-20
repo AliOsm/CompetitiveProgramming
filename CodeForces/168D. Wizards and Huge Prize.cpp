@@ -1,3 +1,12 @@
+/*
+	idea:
+		- We can solve this problem using dynamic programmin.
+		- dp[idx][win][cnt] means the probability of winning `win` games till the
+			`idx` day with `cnt` places in the bag for the prizes.
+		- then in each day either we go to the next day with probability (1 - p[i])
+			or win the tour with probability (p[i]) and win the prize or the bag
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

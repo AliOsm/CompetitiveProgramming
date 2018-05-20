@@ -1,3 +1,10 @@
+/*
+  idea:
+    - We can try every possible possibility and count the number of win states
+      for each possibility, then choose the one with the greatest number of
+      win states.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

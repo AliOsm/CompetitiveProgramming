@@ -1,3 +1,10 @@
+/*
+	idea:
+		- We can do a brute force and counting the number of all possibilities and
+			the number of possibilities when there is a pipe with length more than L
+			then return the division result.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
