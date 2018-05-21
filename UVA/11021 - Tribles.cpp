@@ -1,3 +1,11 @@
+/*
+  Idea:
+    - We can solve this problem using Dynamic Programming.
+    - dp[i] represents the probability of all Tribles are die in the ith day.
+    - We can calculate the probability of one Trible and raise it to the power
+      of the number of Tribles we have.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
