@@ -421,3 +421,6 @@
 - [984A. Game](http://codeforces.com/contest/984/problem/A)
 - [984B. Minesweeper](http://codeforces.com/contest/984/problem/B)
 - [984D. XOR-pyramid](http://codeforces.com/contest/984/problem/D)
+- [985A. Chess Placing](http://codeforces.com/contest/985/problem/A)
+- [985B. Switches and Lamps](http://codeforces.com/contest/985/problem/B)
+- [985C. Liebig's Barrels](http://codeforces.com/contest/985/problem/C)
