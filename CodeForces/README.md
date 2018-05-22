@@ -410,6 +410,7 @@
 - [977C. Less or Equal](http://codeforces.com/contest/977/problem/C)
 - [977D. Divide by three, multiply by two](http://codeforces.com/contest/977/problem/D)
 - [977E. Cyclic Components](http://codeforces.com/contest/977/problem/E)
+- [977F. Consecutive Subsequence](http://codeforces.com/contest/977/problem/F)
 - [978A. Remove Duplicates](http://codeforces.com/contest/978/problem/A)
 - [978B. File Name](http://codeforces.com/contest/978/problem/B)
 - [978C. Letters](http://codeforces.com/contest/978/problem/C)
