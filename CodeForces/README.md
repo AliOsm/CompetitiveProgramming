@@ -190,6 +190,7 @@
 - [551B. ZgukistringZ](http://codeforces.com/contest/551/problem/B)
 - [552C. Vanya and Scales](http://codeforces.com/contest/552/problem/C)
 - [557C. Arthur and Table](http://codeforces.com/contest/557/problem/C)
+- [567C. Geometric Progression](http://codeforces.com/contest/567/problem/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
 - [577A. Multiplication Table](http://codeforces.com/problemset/problem/577/A)
 - [577B. Modulo Sum](http://codeforces.com/contest/577/problem/B)
