@@ -1,3 +1,11 @@
+/*
+	Idea:
+		- For each index i try to make it the middle of the progression, then find
+			how many element before it equal to `a[i] / k` and how many element after
+			it equal to `a[i] * k`, finally in each step update the result by multiply
+			the number of elements before and after.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
