@@ -414,6 +414,7 @@
 - [978A. Remove Duplicates](http://codeforces.com/contest/978/problem/A)
 - [978B. File Name](http://codeforces.com/contest/978/problem/B)
 - [978C. Letters](http://codeforces.com/contest/978/problem/C)
+- [978D. Almost Arithmetic Progression](http://codeforces.com/contest/978/problem/D)
 - [978E. Bus Video System](http://codeforces.com/contest/978/problem/E)
 - [978F. Mentors](http://codeforces.com/contest/978/problem/F)
 - [979A. Pizza, Pizza, Pizza!!!](http://codeforces.com/contest/979/problem/A)
