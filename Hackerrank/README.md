@@ -62,6 +62,7 @@
 - [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)
 - [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)
 - [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)
+- [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd)
 - [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor)
 - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)
 - [Stepping Stones Game](https://www.hackerrank.com/challenges/stepping-stones-game)
