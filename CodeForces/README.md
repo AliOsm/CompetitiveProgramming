@@ -346,6 +346,7 @@
 - [892A. Greed](http://codeforces.com/contest/892/problem/A)
 - [892B. Wrath](http://codeforces.com/contest/892/problem/B)
 - [892C. Pride](http://codeforces.com/contest/892/problem/C)
+- [892D. Gluttony](http://codeforces.com/contest/892/problem/D)
 - [898A. Rounding](http://codeforces.com/contest/898/problem/A)
 - [898B. Proper Nutrition](http://codeforces.com/contest/898/problem/B)
 - [898C. Phone Numbers](http://codeforces.com/contest/898/problem/C)
