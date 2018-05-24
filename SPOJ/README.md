@@ -10,6 +10,7 @@
 - [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
 - [BYTESE2 - The Great Ball](http://www.spoj.com/problems/BYTESE2/)
+- [CNTPRIME - Counting Primes](http://www.spoj.com/problems/CNTPRIME/)
 - [CODEIT02 - PICK UP DROP ESCAPE](http://www.spoj.com/problems/CODEIT02/)
 - [CODEM5 - Problem5](http://www.spoj.com/problems/CODEM5/)
 - [COMDIV - Number of common divisors](http://www.spoj.com/problems/COMDIV/)
