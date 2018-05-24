@@ -17,3 +17,5 @@
 - [59. Triangular Matrix](https://csacademy.com/contest/round-59/task/triangular-matrix)
 - [79. Milk and Bread](https://csacademy.com/contest/round-79/task/milk-and-bread/)
 - [79. Cats and Dogs](https://csacademy.com/contest/round-79/task/cats-and-dogs/)
+- [80. Digits Permutation](https://csacademy.com/contest/round-80/task/ioi-selection/)
+- [80. IOI Selection](https://csacademy.com/contest/round-80/task/digits-permutation/)
