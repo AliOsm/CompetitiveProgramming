@@ -80,6 +80,7 @@
 - [227A. Where do I Turn?](http://codeforces.com/contest/227/problem/A)
 - [227B. Effective Approach](http://codeforces.com/contest/227/problem/B)
 - [227C. Flying Saucer Segments](http://codeforces.com/contest/227/problem/C)
+- [227D. Naughty Stone Piles](http://codeforces.com/contest/227/problem/D)
 - [230A. Dragons](http://codeforces.com/problemset/problem/230/A)
 - [230B. T-primes](http://codeforces.com/problemset/problem/230/B)
 - [231A. Team](http://codeforces.com/problemset/problem/231/A)
