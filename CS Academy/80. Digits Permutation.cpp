@@ -1,3 +1,8 @@
+/*
+    Idea:
+        - sort number `a` and try all permutations of it.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

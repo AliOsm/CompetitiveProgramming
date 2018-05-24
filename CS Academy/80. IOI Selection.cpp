@@ -1,3 +1,10 @@
+/*
+	Idea:
+		- Greedy.
+		- For each student try to give him/her 300 points and imagine that all other
+			students did not solve any problem and count the answer.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
