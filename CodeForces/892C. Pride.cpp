@@ -1,3 +1,13 @@
+/*
+  Idea:
+    - Greedy.
+    - If there is one 1 in the array then the answer is `n - 1`.
+    - If there is no odd number in the array then the answer is `-1`.
+    - Else try from each index i to find the shortest consequtive subarray
+      such that the GCD of it equal to 1, then the answer will be the `length
+      of the subarray + n - 1`.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

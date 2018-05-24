@@ -1,3 +1,10 @@
+/*
+  Idea:
+    - Comulative sum.
+    - For each person put -1 in its index and put 1 in `i - a[i]` then do comulative sum.
+    - Number of zeros is the answer.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

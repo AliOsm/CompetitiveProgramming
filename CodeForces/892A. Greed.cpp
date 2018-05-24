@@ -1,3 +1,8 @@
+/*
+  Idea:
+    - Sorting.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
