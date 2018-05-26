@@ -88,6 +88,7 @@
 - [10337 - Flight Planner](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1278)
 - [10338 - Mischievous Children](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1279)
 - [10340 - All in All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1281)
+- [10368 - Euclid's Game](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1309)
 - [10370 - Above Average](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1311)
 - [10405 - Longest Common Subsequence](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1346)
 - [10420 - List of Conquests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1361)
