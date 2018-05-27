@@ -213,6 +213,7 @@
 - [630Q. Pyramids](http://codeforces.com/problemset/problem/630/Q)
 - [630R. Game](http://codeforces.com/problemset/problem/630/R)
 - [651A. Joysticks](http://codeforces.com/problemset/problem/651/A)
+- [651C. Watchmen](http://codeforces.com/contest/651/problem/C)
 - [664A. Complicated GCD](http://codeforces.com/contest/664/problem/A)
 - [670D1. Magic Powder - 1](http://codeforces.com/contest/670/problem/D1)
 - [670D2. Magic Powder - 2](http://codeforces.com/contest/670/problem/D2)
