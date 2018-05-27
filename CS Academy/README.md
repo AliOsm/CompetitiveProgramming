@@ -1,5 +1,6 @@
 # Problems links
 
+- [18. Concatenated String](https://csacademy.com/contest/round-18/task/concatenated-string/)
 - [18. Consecutive Digits Signs](https://csacademy.com/contest/round-18/task/consecutive-digit-signs/)
 - [24. Vector Size](https://csacademy.com/contest/round-24/#task/vector-size)
 - [24. Kth Special Number](https://csacademy.com/contest/round-24/#task/kth-special-number)
