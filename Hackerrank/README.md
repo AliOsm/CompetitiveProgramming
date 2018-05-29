@@ -69,3 +69,4 @@
 - [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor)
 - [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)
 - [Weighted Uniform Strings](https://www.hackerrank.com/contests/world-codesprint-9/challenges/weighted-uniform-string)
+- [Xrange's Pancakes](https://www.hackerrank.com/challenges/xrange-and-pizza)
