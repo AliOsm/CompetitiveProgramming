@@ -396,6 +396,7 @@
 - [954B. String Typing](http://codeforces.com/contest/954/problem/B)
 - [954C. Matrix Walk](http://codeforces.com/contest/954/problem/C)
 - [954D. Fight Against Traffic](http://codeforces.com/contest/954/problem/D)
+- [954E. Water Taps](http://codeforces.com/contest/954/problem/E)
 - [957B. Mystical Mosaic](http://codeforces.com/contest/957/problem/B)
 - [957C. Three-level Laser](http://codeforces.com/contest/957/problem/C)
 - [959A. Mahmoud and Ehab and the even-odd game](http://codeforces.com/contest/959/problem/A)
