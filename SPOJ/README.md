@@ -6,6 +6,7 @@
 - [AGGRCOW - Aggressive cows](http://www.spoj.com/problems/AGGRCOW/)
 - [AMR11A - Magic Grid](http://www.spoj.com/problems/AMR11A/)
 - [AMR11E - Distinct Primes](http://www.spoj.com/problems/AMR11E/)
+- [ANDROUND - AND Rounds](http://www.spoj.com/problems/ANDROUND/)
 - [ATOMS - Atoms in the Lab](http://www.spoj.com/problems/ATOMS/)
 - [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
