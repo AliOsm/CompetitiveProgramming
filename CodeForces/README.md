@@ -130,6 +130,7 @@
 - [394A. Counting Sticks](http://codeforces.com/problemset/problem/394/A)
 - [401C. Team](http://codeforces.com/contest/401/problem/C)
 - [405A. Gravity Flip](http://codeforces.com/problemset/problem/405/A)
+- [417D. Cunning Gena](http://codeforces.com/contest/417/problem/D)
 - [421A. Pasha and Hamsters](http://codeforces.com/problemset/problem/421/A)
 - [427C. Checkposts](http://codeforces.com/contest/427/problem/C)
 - [431A - Black Square](http://codeforces.com/problemset/problem/431/A)
