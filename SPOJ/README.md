@@ -33,6 +33,7 @@
 - [ETF - Euler Totient Function](http://www.spoj.com/problems/ETF/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
 - [FACTCG2 - Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
+- [GSS1 - Can you answer these queries I](http://www.spoj.com/problems/GSS1/)
 - [GSS4 - Can you answer these queries IV](http://www.spoj.com/problems/GSS4/)
 - [HORRIBLE - Horrible Queries](http://www.spoj.com/problems/HORRIBLE/)
 - [HOTELS - Hotels Along the Croatian Coast](http://www.spoj.com/problems/HOTELS/)
