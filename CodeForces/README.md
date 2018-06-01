@@ -88,6 +88,7 @@
 - [234C. Weather](http://codeforces.com/contest/234/problem/C)
 - [236A. Boy or Girl](http://codeforces.com/problemset/problem/236/A)
 - [237C. Primes on Interval](http://codeforces.com/problemset/problem/237/C)
+- [242D. Dispute](http://codeforces.com/contest/242/problem/D)
 - [255A. Greg's Workout](http://codeforces.com/problemset/problem/255/A)
 - [257A. Sockets](http://codeforces.com/contest/257/problem/A)
 - [262A. Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)
