@@ -24,6 +24,7 @@
 - [483 - Word Scramble](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=424)
 - [484 - The Department of Redundancy Department](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=425)
 - [499 - What's The Frequency, Kenneth?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=440)
+- [501 - Black Box](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=442)
 - [507 - Jill Rides Again](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=448)
 - [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
 - [531 - Compromise](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=472)
