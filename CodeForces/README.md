@@ -445,3 +445,7 @@
 - [985A. Chess Placing](http://codeforces.com/contest/985/problem/A)
 - [985B. Switches and Lamps](http://codeforces.com/contest/985/problem/B)
 - [985C. Liebig's Barrels](http://codeforces.com/contest/985/problem/C)
+- [988A. Diverse Team](http://codeforces.com/contest/988/problem/A)
+- [988B. Substrings Sort](http://codeforces.com/contest/988/problem/B)
+- [988C. Equal Sums](http://codeforces.com/contest/988/problem/C)
+- [988D. Points and Powers of Two](http://codeforces.com/contest/988/problem/D)
