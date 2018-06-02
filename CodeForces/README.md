@@ -449,3 +449,4 @@
 - [988B. Substrings Sort](http://codeforces.com/contest/988/problem/B)
 - [988C. Equal Sums](http://codeforces.com/contest/988/problem/C)
 - [988D. Points and Powers of Two](http://codeforces.com/contest/988/problem/D)
+- [988E. Divisibility by 25](http://codeforces.com/contest/988/problem/E)
