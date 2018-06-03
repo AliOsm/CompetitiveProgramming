@@ -1,3 +1,10 @@
+/*
+	Idea:
+		- We can solve this problem using Dynamic Programming.
+		- The state is the index, have I flip a substring or not?, am I still
+			flipping? and the last character.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

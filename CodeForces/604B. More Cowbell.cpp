@@ -1,3 +1,11 @@
+/*
+	Idea:
+		- Greedy with Binary search.
+		- Greedily we can choose some bells and put them alone in some boxes.
+		- Then we can do binary search on the other bells to find the smallest
+			box size.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

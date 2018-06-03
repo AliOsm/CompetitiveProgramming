@@ -1,3 +1,8 @@
+/*
+  Idea:
+    - Implement the problem statement.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
