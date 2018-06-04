@@ -9,6 +9,7 @@
 - [ANDROUND - AND Rounds](http://www.spoj.com/problems/ANDROUND/)
 - [ATOMS - Atoms in the Lab](http://www.spoj.com/problems/ATOMS/)
 - [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
+- [BRCKTS - Brackets](http://www.spoj.com/problems/BRCKTS/)
 - [BSEARCH1 - Binary search](http://www.spoj.com/problems/BSEARCH1/)
 - [BYTESE2 - The Great Ball](http://www.spoj.com/problems/BYTESE2/)
 - [CNTPRIME - Counting Primes](http://www.spoj.com/problems/CNTPRIME/)
