@@ -28,6 +28,7 @@
 - [507 - Jill Rides Again](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=448)
 - [526 - String Distance and Transform Process](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=467)
 - [531 - Compromise](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=472)
+- [542 - France '98](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=483)
 - [543 - Goldbach's Conjecture](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=484)
 - [562 - Dividing coins](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=503)
 - [567 - Risk](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508)
