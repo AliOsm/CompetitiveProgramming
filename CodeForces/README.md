@@ -211,6 +211,7 @@
 - [604A. Uncowed Forces](http://codeforces.com/contest/604/problem/A)
 - [604B. More Cowbell](http://codeforces.com/contest/604/problem/B)
 - [604C. Alternative Thinking](http://codeforces.com/contest/604/problem/C)
+- [608C. Chain Reaction](http://codeforces.com/contest/608/problem/C)
 - [609A. USB Flash Drives](http://codeforces.com/contest/609/problem/A)
 - [616D. Longest k-Good Segment](http://codeforces.com/contest/616/problem/D)
 - [629A. Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)
