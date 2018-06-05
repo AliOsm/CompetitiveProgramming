@@ -60,6 +60,7 @@
 - [144A. Arrival of the General](http://codeforces.com/contest/144/problem/A)
 - [148A. Insomnia cure](http://codeforces.com/contest/148/problem/A)
 - [151A. Soft Drinking](http://codeforces.com/problemset/problem/151/A)
+- [151C. Win or Freeze](http://codeforces.com/contest/151/problem/C)
 - [152C. Pocket Book](http://codeforces.com/contest/152/problem/C)
 - [158A. Next Round](http://codeforces.com/problemset/problem/158/A)
 - [158B. Taxi](http://codeforces.com/contest/158/problem/B)
