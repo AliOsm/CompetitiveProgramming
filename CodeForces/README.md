@@ -152,6 +152,7 @@
 - [456A. Laptops](http://codeforces.com/problemset/problem/456/A)
 - [456C. Boredom](http://codeforces.com/contest/456/problem/C)
 - [459A. Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)
+- [460C. Present](http://codeforces.com/contest/460/problem/C)
 - [462A. Appleman and Easy Task](http://codeforces.com/problemset/problem/462/A)
 - [463C. Gargari and Bishops](http://codeforces.com/contest/463/problem/C)
 - [466A. Cheap Travel](http://codeforces.com/contest/466/problem/A)
