@@ -26,6 +26,7 @@
 - [45A. Codecraft III](http://codeforces.com/problemset/problem/45/A)
 - [47A. Triangular numbers](http://codeforces.com/problemset/problem/47/A)
 - [50A. Domino piling](http://codeforces.com/problemset/problem/50/A)
+- [52C. Circular RMQ](http://codeforces.com/contest/52/problem/C)
 - [56D. Changing a String](http://codeforces.com/contest/56/problem/D)
 - [58A. Chat room](http://codeforces.com/problemset/problem/58/A)
 - [59A. Word](http://codeforces.com/problemset/problem/59/A)
