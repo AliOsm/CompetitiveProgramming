@@ -92,6 +92,7 @@
 - [242D. Dispute](http://codeforces.com/contest/242/problem/D)
 - [255A. Greg's Workout](http://codeforces.com/problemset/problem/255/A)
 - [257A. Sockets](http://codeforces.com/contest/257/problem/A)
+- [257C. View Angle](http://codeforces.com/contest/257/problem/C)
 - [262A. Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)
 - [263A. Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)
 - [263D. Cycle in Graph](http://codeforces.com/contest/263/problem/D)
