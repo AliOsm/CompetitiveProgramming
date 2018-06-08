@@ -103,6 +103,7 @@
 - [268C. Beautiful Sets of Points](http://codeforces.com/contest/268/problem/C)
 - [271A. Beautiful Year](http://codeforces.com/problemset/problem/271/A)
 - [275A. Lights Out](http://codeforces.com/contest/275/problem/A)
+- [275C. k-Multiple Free Set](http://codeforces.com/contest/275/problem/C)
 - [276A. Lunch Rush](http://codeforces.com/problemset/problem/276/A)
 - [279B. Books](http://codeforces.com/problemset/problem/279/B)
 - [281A. Word Capitalization](http://codeforces.com/problemset/problem/281/A)
