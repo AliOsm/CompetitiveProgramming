@@ -254,6 +254,7 @@
 - [711D. Directed Roads](http://codeforces.com/problemset/problem/711/D)
 - [719A. Vitya in the Countryside](http://codeforces.com/problemset/problem/719/A)
 - [721A. One-dimensional Japanese Crossword](http://codeforces.com/problemset/problem/721/A)
+- [721C. Journey](http://codeforces.com/contest/721/problem/C)
 - [722A. Broken Clock](http://codeforces.com/problemset/problem/722/A)
 - [723A. The New Year - Meeting Friends](http://codeforces.com/problemset/problem/723/A)
 - [723B. Text Document Analysis](http://codeforces.com/problemset/problem/723/B)
