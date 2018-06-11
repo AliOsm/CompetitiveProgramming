@@ -40,6 +40,7 @@
 - [776 - Monkeys in a Regular Forest](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=717)
 - [784 - Maze Exploration](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=725)
 - [793 - Network Connections](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=734)
+- [820 - Internet Bandwidth](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=761)
 - [825 - Walking on the Safe Side](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=766)
 - [836 - Largest Submatrix](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=777)
 - [900 - Brick Wall Patterns](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=841)
