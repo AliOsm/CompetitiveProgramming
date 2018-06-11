@@ -96,6 +96,7 @@
 - [10405 - Longest Common Subsequence](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1346)
 - [10420 - List of Conquests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1361)
 - [10422 - Knights in FEN](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1363)
+- [10536 - Game of Euler](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1477)
 - [10550 - Combination Lock](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1491)
 - [10608 - Friends](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1549)
 - [10611 - The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
