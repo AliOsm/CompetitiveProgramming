@@ -87,6 +87,7 @@
 - [10305 - Ordering Tasks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1246)
 - [10313 - Pay the Price](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1254)
 - [10324 - Zeros and Ones](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1265)
+- [10330 - Power Transmission](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1271)
 - [10334 - Ray Through Glasses](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1275)
 - [10336 - Rank the Languages](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1277)
 - [10337 - Flight Planner](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1278)
