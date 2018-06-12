@@ -134,6 +134,7 @@
 - [11341 - Term Strategy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2316)
 - [11362 - Phone List](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2347)
 - [11364 - Parking](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2349)
+- [11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)
 - [11420 - Chest of Drawers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2415)
 - [11462 - Age Sort](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2457)
 - [11488 - Hyper Prefix Sets](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2483)
