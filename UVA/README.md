@@ -160,6 +160,7 @@
 - [11917 - Do Your Own Homework](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3068)
 - [11942 - Lumberjack Sequencing](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3093)
 - [12015 - Google is Feeling Lucky](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3166)
+- [12024 - Hats](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3175)
 - [12086 - Potentiometers](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3238)
 - [12101 - Prime Path](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3253)
 - [12118 - Inspector's Dilemma](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3270)
