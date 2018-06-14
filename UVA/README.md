@@ -70,6 +70,7 @@
 - [10100 - Longest Match](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1041)
 - [10104 - Euclid Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1045)
 - [10107 - What is the Median](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1048)
+- [10111 - Find the Winning Move](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1052)
 - [10116 - Robot Motion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1057)
 - [10130 - SuperSale](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1071)
 - [10131 - Is Bigger Smarter?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1072)
