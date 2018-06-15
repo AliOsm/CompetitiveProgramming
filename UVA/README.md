@@ -79,6 +79,7 @@
 - [10226 - Hardwood Species](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167)
 - [10235 - Simply Emirp](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1176)
 - [10252 - Common Permutation](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1193)
+- [10264 - The Most Potent Corner](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1205)
 - [10279 - Mine Sweeper](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1220)
 - [10282 - Babelfish](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1223)
 - [10285 - Longest Run on a Snowboard](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1226)
