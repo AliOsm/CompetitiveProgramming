@@ -110,6 +110,7 @@
 - [282A. Bit++](http://codeforces.com/problemset/problem/282/A)
 - [285B. Find Marble](http://codeforces.com/contest/285/problem/B)
 - [298A. Snow Footprints](http://codeforces.com/contest/298/problem/A)
+- [298D. Fish Weight](http://codeforces.com/contest/298/problem/D)
 - [304A. Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)
 - [313A. Ilya and Bank Account](http://codeforces.com/contest/313/problem/A)
 - [313B. Ilya and Queries](http://codeforces.com/problemset/problem/313/B)
