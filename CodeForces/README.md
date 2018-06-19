@@ -120,6 +120,7 @@
 - [339A. Helpful Maths](http://codeforces.com/problemset/problem/339/A)
 - [339C. Xenia and Weights](http://codeforces.com/contest/339/problem/C)
 - [339D. Xenia and Bit Operations](http://codeforces.com/contest/339/problem/D)
+- [340D. Bubble Sort Graph](http://codeforces.com/contest/340/problem/D)
 - [347C. Alice and Bob](http://codeforces.com/contest/347/problem/C)
 - [349B. Color the Fenc](http://codeforces.com/problemset/problem/349/B)
 - [350C. Bombs](http://codeforces.com/contest/350/problem/C)
