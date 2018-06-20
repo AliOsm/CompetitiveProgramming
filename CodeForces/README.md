@@ -97,6 +97,7 @@
 - [262A. Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)
 - [263A. Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)
 - [263D. Cycle in Graph](http://codeforces.com/contest/263/problem/D)
+- [265D. Good Sequences](http://codeforces.com/contest/265/problem/D)
 - [266A. Stones on the Table](http://codeforces.com/problemset/problem/266/A)
 - [266B. Queue at the School](http://codeforces.com/problemset/problem/266/B)
 - [268A. Games](http://codeforces.com/problemset/problem/268/A)
