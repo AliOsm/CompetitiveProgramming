@@ -144,6 +144,7 @@
 - [427C. Checkposts](http://codeforces.com/contest/427/problem/C)
 - [431A - Black Square](http://codeforces.com/problemset/problem/431/A)
 - [431C. k-Tree](http://codeforces.com/problemset/problem/431/C)
+- [431D. Random Task](http://codeforces.com/contest/431/problem/D)
 - [432A. Choosing Teams](http://codeforces.com/problemset/problem/432/A)
 - [433B. Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)
 - [439A. Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)
