@@ -173,6 +173,7 @@
 - [474D. Flowers](http://codeforces.com/contest/474/problem/D)
 - [476A. Dreamoon and Stairs](http://codeforces.com/contest/476/problem/A)
 - [476B. Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B)
+- [476D. Dreamoon and Sets](http://codeforces.com/contest/476/problem/D)
 - [478C. Table Decorations](http://codeforces.com/contest/478/problem/C)
 - [478D. Red-Green Towers](http://codeforces.com/contest/478/problem/D)
 - [479A. Expression](http://codeforces.com/contest/479/problem/A)
