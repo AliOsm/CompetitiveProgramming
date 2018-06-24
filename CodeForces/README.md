@@ -36,6 +36,7 @@
 - [69A. Young Physicist](http://codeforces.com/problemset/problem/69/A)
 - [69C. Game](http://codeforces.com/contest/69/problem/C)
 - [69E. Subsegments](http://codeforces.com/contest/69/problem/E)
+- [69D. Dot](http://codeforces.com/contest/69/problem/D)
 - [71A. Way Too Long Words](http://codeforces.com/problemset/problem/71/A)
 - [73C. LionAge II](http://codeforces.com/problemset/problem/73/C)
 - [75A. Life Without Zeros](http://codeforces.com/contest/75/problem/A)
