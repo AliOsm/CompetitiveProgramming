@@ -207,6 +207,7 @@
 - [550C. Divisibility by Eight](http://codeforces.com/problemset/problem/550/C)
 - [551B. ZgukistringZ](http://codeforces.com/contest/551/problem/B)
 - [552C. Vanya and Scales](http://codeforces.com/contest/552/problem/C)
+- [552D. Vanya and Triangles](https://codeforces.com/contest/552/problem/D)
 - [557C. Arthur and Table](http://codeforces.com/contest/557/problem/C)
 - [567C. Geometric Progression](http://codeforces.com/contest/567/problem/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
