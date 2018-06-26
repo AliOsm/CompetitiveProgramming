@@ -1,3 +1,9 @@
+/*
+  Idea:
+    - Greedy.
+    - For each bottle keep taking from it until finish and go to the next one.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
