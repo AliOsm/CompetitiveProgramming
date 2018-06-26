@@ -43,6 +43,7 @@
 - [75D. Big Maximum Sum](http://codeforces.com/contest/75/problem/D)
 - [80A. Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)
 - [81A. Plug-in](http://codeforces.com/contest/81/problem/A)
+- [94D. End of Exams](http://codeforces.com/conhttp://codeforces.com/contest/94/problem/Dtest/94/problem/D)
 - [96A. Football](http://codeforces.com/problemset/problem/96/A)
 - [96B. Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)
 - [110A. Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)
