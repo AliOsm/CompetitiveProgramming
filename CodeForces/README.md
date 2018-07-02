@@ -210,6 +210,7 @@
 - [552C. Vanya and Scales](http://codeforces.com/contest/552/problem/C)
 - [552D. Vanya and Triangles](https://codeforces.com/contest/552/problem/D)
 - [557C. Arthur and Table](http://codeforces.com/contest/557/problem/C)
+- [560C. Gerald's Hexagon](http://codeforces.com/contest/560/problem/C)
 - [567C. Geometric Progression](http://codeforces.com/contest/567/problem/C)
 - [573A. Bear and Poker](http://codeforces.com/contest/573/problem/A)
 - [577A. Multiplication Table](http://codeforces.com/problemset/problem/577/A)
