@@ -1,3 +1,15 @@
+/*
+  Idea:
+    - Greedy.
+    - If we have one row from the hexagon of sides 1, 1, 2, 1, then we can split it into 3 triangles.
+     ─
+    / \
+    ─ ─
+    - If we try to do the same thing with row has sides 2, 1, 3, 1, the we can split it into 5 triangles, which is the summation of the sides
+      2 and 3.
+    - From the previous point we can calculate each row alone and add it to the result.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
