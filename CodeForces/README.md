@@ -83,6 +83,7 @@
 - [214A. System of Equations](http://codeforces.com/problemset/problem/214/A)
 - [218C. Ice Skating](http://codeforces.com/contest/218/problem/C)
 - [222D. Olympiad](https://codeforces.com/contest/222/problem/D)
+- [224C. Bracket Sequence](http://codeforces.com/contest/224/problem/C)
 - [227A. Where do I Turn?](http://codeforces.com/contest/227/problem/A)
 - [227B. Effective Approach](http://codeforces.com/contest/227/problem/B)
 - [227C. Flying Saucer Segments](http://codeforces.com/contest/227/problem/C)
