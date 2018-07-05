@@ -469,3 +469,7 @@
 - [988C. Equal Sums](http://codeforces.com/contest/988/problem/C)
 - [988D. Points and Powers of Two](http://codeforces.com/contest/988/problem/D)
 - [988E. Divisibility by 25](http://codeforces.com/contest/988/problem/E)
+- [1003A. Polycarp's Pockets](http://codeforces.com/contest/1003/problem/A)
+- [1003B. Binary String Constructing](http://codeforces.com/contest/1003/problem/B)
+- [1003C. Intense Heat.cpp](http://codeforces.com/contest/1003/problem/C)
+- [1003D. Coins and Queries](http://codeforces.com/contest/1003/problem/D)
