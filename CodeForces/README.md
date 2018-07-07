@@ -194,6 +194,7 @@
 - [490D. Chocolate](http://codeforces.com/contest/490/problem/D)
 - [493D. Vasya and Chess](http://codeforces.com/contest/493/problem/D)
 - [496A. Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)
+- [496D. Tennis Game](http://codeforces.com/contest/496/problem/D)
 - [499B. Lecture](http://codeforces.com/problemset/problem/499/B)
 - [510A. Fox And Snake](http://codeforces.com/problemset/problem/510/A)
 - [510C. Fox And Names](http://codeforces.com/problemset/problem/510/C)
