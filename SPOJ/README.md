@@ -36,6 +36,7 @@
 - [FACTCG2 - Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
 - [GSS1 - Can you answer these queries I](http://www.spoj.com/problems/GSS1/)
 - [GSS4 - Can you answer these queries IV](http://www.spoj.com/problems/GSS4/)
+- [HISTOGRA - Largest Rectangle in a Histogram](https://www.spoj.com/problems/HISTOGRA/)
 - [HORRIBLE - Horrible Queries](http://www.spoj.com/problems/HORRIBLE/)
 - [HOTELS - Hotels Along the Croatian Coast](http://www.spoj.com/problems/HOTELS/)
 - [KNAPSACK - The Knapsack Problem](http://www.spoj.com/problems/KNAPSACK/)
