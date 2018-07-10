@@ -482,6 +482,7 @@
 - [1003B. Binary String Constructing](http://codeforces.com/contest/1003/problem/B)
 - [1003C. Intense Heat.cpp](http://codeforces.com/contest/1003/problem/C)
 - [1003D. Coins and Queries](http://codeforces.com/contest/1003/problem/D)
+- [1003E. Tree Constructing](http://codeforces.com/contest/1003/problem/E)
 - [1005A. Tanya and Stairways](http://codeforces.com/contest/1005/problem/A)
 - [1005B. Delete from the Left](http://codeforces.com/contest/1005/problem/B)
 - [1005C. Summarize to the Power of Two](http://codeforces.com/contest/1005/problem/C)
