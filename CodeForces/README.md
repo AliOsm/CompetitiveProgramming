@@ -486,3 +486,4 @@
 - [1005B. Delete from the Left](http://codeforces.com/contest/1005/problem/B)
 - [1005C. Summarize to the Power of Two](http://codeforces.com/contest/1005/problem/C)
 - [1005D. Polycarp and Div 3](http://codeforces.com/contest/1005/problem/D)
+- [1005E1. Median on Segments (Permutations Edition)](http://codeforces.com/contest/1005/problem/E1)
