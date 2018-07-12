@@ -1,3 +1,16 @@
+/*
+  Idea:
+    - Brute forcing the length `L`.
+    - Each time choosing `L` go and check if the desiredColor string can
+      be splitted in the minimum number of segments.
+    - If you can't return a huge value.
+    - If you can't continue with the current segment with length `L`,
+      try to complete it using some characters from the previous one.
+    - Recursively you can solve the problems in the segments to allow
+      the current one to take the characters it is need from the previous
+      segment.
+*/
+
 #include <string>
 
 using namespace std;
