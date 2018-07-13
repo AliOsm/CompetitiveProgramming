@@ -1,3 +1,16 @@
+/*
+  Idea:
+    - It is clear to see that we need to merge low revenues first to allow
+      companies with high revenues to affect the result and make it bigger.
+    - So we need to sort the array, then we need to try all possible 
+      possibilities to split the array in segments and then merge them.
+    - To try all possible possibilities we can use dynamic programming.
+    - dp[i] contains the largest possible revenue if we split the range
+      `[0..i]` in the best way.
+    - Then we can extend the solution for each index `i` with each possible
+      length from `i + (k - 1) - 1` to `n`.
+*/
+
 #include <vector>
 #include <algorithm>
 
