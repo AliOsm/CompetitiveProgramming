@@ -488,3 +488,6 @@
 - [1005C. Summarize to the Power of Two](http://codeforces.com/contest/1005/problem/C)
 - [1005D. Polycarp and Div 3](http://codeforces.com/contest/1005/problem/D)
 - [1005E1. Median on Segments (Permutations Edition)](http://codeforces.com/contest/1005/problem/E1)
+- [1009A. Game Shopping](http://codeforces.com/contest/1009/problem/A)
+- [1009B. Minimum Ternary String](http://codeforces.com/contest/1009/problem/B)
+- [1009D. Relatively Prime Graph](http://codeforces.com/contest/1009/problem/D)
