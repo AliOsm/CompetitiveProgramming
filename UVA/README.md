@@ -55,6 +55,7 @@
 - [1239 - Greatest K-Palindrome Substring](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3680)
 - [1585 - Score](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
 - [1586 - Molar mass](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=4461)
+- [1590 - IP Networks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4465)
 - [10000 - Longest Paths](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=941)
 - [10003 - Cutting Sticks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=944)
 - [10004 - Bicoloring](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)
