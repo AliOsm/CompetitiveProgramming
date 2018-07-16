@@ -1,3 +1,9 @@
+/*
+  Idea:
+    - Using NlogN longest increasing subsequence we can obtain
+      the LIS and LDS at each index `i`.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
