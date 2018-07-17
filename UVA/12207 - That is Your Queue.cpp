@@ -1,3 +1,14 @@
+/*
+  Idea:
+    - Using STL List we can track the queue.
+    - For each `N` operation we print the front of the list.
+    - For each `E x` operation we erase the element from the list and
+      push it to the front.
+    - The important observation is that we don't need all `n` to solve the queries,
+      at most we need the first 1000 elements and in operation of type `E x` appears
+      with `x` greater than 1000 then we can bring the element to the front of the list.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
