@@ -500,6 +500,7 @@
 - [1006C. Three Parts of the Array](http://codeforces.com/contest/1006/problem/C)
 - [1006D. Two Strings Swaps](http://codeforces.com/contest/1006/problem/D)
 - [1006E. Military Problem](http://codeforces.com/contest/1006/problem/E)
+- [1006F. Xor-Paths](http://codeforces.com/contest/1006/problem/F)
 - [1009A. Game Shopping](http://codeforces.com/contest/1009/problem/A)
 - [1009B. Minimum Ternary String](http://codeforces.com/contest/1009/problem/B)
 - [1009D. Relatively Prime Graph](http://codeforces.com/contest/1009/problem/D)
