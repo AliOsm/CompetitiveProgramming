@@ -75,6 +75,7 @@
 - [160A. Twins](http://codeforces.com/problemset/problem/160/A)
 - [165A. Supercentral Point](http://codeforces.com/contest/165/problem/A)
 - [168D. Wizards and Huge Prize](http://codeforces.com/contest/168/problem/D)
+- [174C. Range Increments](http://codeforces.com/contest/174/problem/C)
 - [182D. Common Divisors](http://codeforces.com/contest/182/problem/D)
 - [186C. Plant](http://codeforces.com/contest/186/problem/C)
 - [189A. Cut Ribbon](http://codeforces.com/contest/189/problem/A)
