@@ -192,6 +192,7 @@
 - [478D. Red-Green Towers](http://codeforces.com/contest/478/problem/D)
 - [479A. Expression](http://codeforces.com/contest/479/problem/A)
 - [479C. Exams](http://codeforces.com/problemset/problem/479/C)
+- [480C. Riding in a Lift](http://codeforces.com/contest/480/problem/C)
 - [483A. Counterexample](http://codeforces.com/problemset/problem/483/A)
 - [486A. Calculating Function](http://codeforces.com/contest/486/problem/A)
 - [486C. Palindrome Transformation](http://codeforces.com/contest/486/problem/C)
