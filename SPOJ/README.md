@@ -8,6 +8,7 @@
 - [AMR11E - Distinct Primes](http://www.spoj.com/problems/AMR11E/)
 - [ANDROUND - AND Rounds](http://www.spoj.com/problems/ANDROUND/)
 - [ATOMS - Atoms in the Lab](http://www.spoj.com/problems/ATOMS/)
+- [BALLSUM - Ball sum](https://www.spoj.com/problems/BALLSUM/)
 - [BGSHOOT - Shoot and kill](http://www.spoj.com/problems/BGSHOOT/)
 - [BRCKTS - Brackets](http://www.spoj.com/problems/BRCKTS/)
 - [BRDGHRD - Building Bridges(HARD)](https://www.spoj.com/problems/BRDGHRD/)
