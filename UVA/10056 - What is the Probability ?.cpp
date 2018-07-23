@@ -1,3 +1,9 @@
+/*
+  Idea:
+    - Calculate the probability of player `i` with the game from the
+      first time, second time, third time, ..., 100000th time.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
