@@ -2,6 +2,7 @@
 
 - [1A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
 - [4A. Watermelon](http://codeforces.com/contest/4/problem/A)
+- [7D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)
 - [9C. Hexadecimal's Numbers](http://codeforces.com/contest/9/problem/C)
 - [12A. Super Agent](http://codeforces.com/contest/12/problem/A)
 - [12B. Correct Solution?](http://codeforces.com/contest/12/problem/B)
