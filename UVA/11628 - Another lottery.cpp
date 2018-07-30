@@ -1,3 +1,10 @@
+/*
+  Idea:
+    - If anyone win the last round, then he will have more money than anyone else.
+    - Using the observation in the previous point we can take the probability
+      of winning the last round and drop anything else.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
