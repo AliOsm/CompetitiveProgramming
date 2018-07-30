@@ -1,3 +1,8 @@
+/*
+  Idea:
+    - Solution equal to: sum(((i/m)^n - ((i-1)/m)^n) * i)
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
