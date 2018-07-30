@@ -176,6 +176,7 @@
 - [451A. Game With Sticks](http://codeforces.com/contest/451/problem/A)
 - [452A. Eevee](http://codeforces.com/problemset/problem/452/A)
 - [454A. Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)
+- [454C. Little Pony and Expected Maximum](http://codeforces.com/contest/454/problem/C)
 - [456A. Laptops](http://codeforces.com/problemset/problem/456/A)
 - [456C. Boredom](http://codeforces.com/contest/456/problem/C)
 - [459A. Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)
