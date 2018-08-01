@@ -170,6 +170,7 @@
 - [441A. Valera and Antique Items](http://codeforces.com/problemset/problem/441/A)
 - [441C. Valera and Tubes](http://codeforces.com/contest/441/problem/C)
 - [443A. Anton and Letters](http://codeforces.com/problemset/problem/443/A)
+- [443D. Andrey and Problem](http://codeforces.com/contest/443/problem/D)
 - [448A. Rewards](http://codeforces.com/problemset/problem/448/A)
 - [448D. Multiplication Table](http://codeforces.com/contest/448/problem/D)
 - [449B. Jzzhu and Cities](http://codeforces.com/contest/449/problem/B)
