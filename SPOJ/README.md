@@ -54,6 +54,7 @@
 - [PRIMPERM - Prime Permutations](http://www.spoj.com/problems/PRIMPERM/)
 - [PRINT - Prime Intervals](http://www.spoj.com/problems/PRINT/)
 - [PT07Y - Is it a tree](http://www.spoj.com/problems/PT07Y/)
+- [RELINETS - Reliable Nets](https://www.spoj.com/problems/RELINETS/)
 - [RMQSQ - Range Minimum Query](http://www.spoj.com/problems/RMQSQ/)
 - [ROADS - Roads](http://www.spoj.com/problems/ROADS/)
 - [RPLN - Negative Score](http://www.spoj.com/problems/RPLN/)
