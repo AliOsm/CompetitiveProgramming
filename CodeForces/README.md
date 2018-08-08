@@ -33,6 +33,7 @@
 - [59A. Word](http://codeforces.com/problemset/problem/59/A)
 - [61A. Ultra-Fast Mathematician](http://codeforces.com/contest/61/problem/A)
 - [61E. Enemy is weak](http://codeforces.com/contest/61/problem/E)
+- [65C. Harry Potter and the Golden Snitch](http://codeforces.com/contest/65/problem/C)
 - [68A. Irrational problem](http://codeforces.com/problemset/problem/68/A)
 - [69A. Young Physicist](http://codeforces.com/problemset/problem/69/A)
 - [69C. Game](http://codeforces.com/contest/69/problem/C)
