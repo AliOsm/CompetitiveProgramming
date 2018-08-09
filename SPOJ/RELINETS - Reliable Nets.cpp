@@ -1,3 +1,12 @@
+/*
+  idea:
+    - Brute force.
+    - Using bitmask we can try every subset of edges and check if it is the minimum one.
+    - To check the subset if it is right or not, we can do DFS using the full subset and check if
+      the graph connected, then using the subset except each edge at a time and check if the
+      graph connected or not.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
