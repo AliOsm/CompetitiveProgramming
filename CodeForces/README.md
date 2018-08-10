@@ -243,6 +243,7 @@
 - [580C. Kefa and Park](http://codeforces.com/contest/580/problem/C)
 - [580D. Kefa and Dishes](http://codeforces.com/problemset/problem/580/D)
 - [591B. Rebranding](http://codeforces.com/contest/591/problem/B)
+- [595E. Edo and Magnets](http://codeforces.com/contest/595/problem/E)
 - [599A. Patrick and Shopping](http://codeforces.com/problemset/problem/599/A)
 - [600B. Queries about less or equal elements](http://codeforces.com/contest/600/problem/B)
 - [602B. Approximating a Constant Range](http://codeforces.com/contest/602/problem/B)
