@@ -63,6 +63,7 @@
 - [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [133E. Logo Turtle](http://codeforces.com/contest/133/problem/E)
 - [136A. Presents](http://codeforces.com/contest/136/problem/A)
+- [136E. Zero-One](http://codeforces.com/contest/136/problem/E)
 - [141A. Amusing Joke](http://codeforces.com/problemset/problem/141/A)
 - [143A. Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A)
 - [143B. Help Kingdom of Far Far Away 2](http://codeforces.com/contest/143/problem/B)
