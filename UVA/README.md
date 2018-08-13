@@ -174,6 +174,7 @@
 - [12086 - Potentiometers](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3238)
 - [12101 - Prime Path](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3253)
 - [12118 - Inspector's Dilemma](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3270)
+- [12154 - Shrinking Polygons](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3306)
 - [12157 - Tariff Plan](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3309)
 - [12207 - That is Your Queue](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3359)
 - [12250 - Language Detection](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3402)
