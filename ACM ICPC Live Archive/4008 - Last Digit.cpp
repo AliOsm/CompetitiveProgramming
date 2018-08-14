@@ -1,3 +1,8 @@
+/*
+  Idea:
+    - https://gmatclub.com/forum/what-is-the-last-non-zero-digit-of-expression-239473.html
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
