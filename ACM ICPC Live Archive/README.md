@@ -12,6 +12,7 @@
 - [4923 - Mirror, Mirror on the Wall](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2924)
 - [4926 - Image Compression](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2927)
 - [4964 - What's Next?](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2965)
+- [6195 - The Dueling Philosophers Problem](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4206)
 - [6569 - Strings with Same Letters](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4580)
 - [6865 - Server](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=4877)
 - [7012 - Kings of Persia](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5024)
