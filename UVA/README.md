@@ -53,6 +53,7 @@
 - [1207 - AGTC](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3648)
 - [1237 - Expert Enough?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3678)
 - [1239 - Greatest K-Palindrome Substring](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3680)
+- [1395 - Slim Span](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4141)
 - [1585 - Score](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)
 - [1586 - Molar mass](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=4461)
 - [1590 - IP Networks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4465)
