@@ -88,6 +88,7 @@
 - [186C. Plant](http://codeforces.com/contest/186/problem/C)
 - [189A. Cut Ribbon](http://codeforces.com/contest/189/problem/A)
 - [189D. AlgoRace](http://codeforces.com/contest/189/problem/D)
+- [190D. Non-Secret Cypher](http://codeforces.com/contest/190/problem/D)
 - [192A. Funky Numbers](http://codeforces.com/problemset/problem/192/A)
 - [192B. Walking in the Rain](http://codeforces.com/problemset/problem/192/B)
 - [193A. Cutting Figure](http://codeforces.com/contest/193/problem/A)
