@@ -113,6 +113,7 @@
 - [10608 - Friends](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1549)
 - [10611 - The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
 - [10673 - Play with Floor and Ceil](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1614)
+- [10705 - The Fun Number System](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1646)
 - [10717 - Mint](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1658)
 - [10721 - Bar Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1662)
 - [10731 - Test](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=99999999&page=show_problem&problem=1672)
