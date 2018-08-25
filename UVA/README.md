@@ -118,6 +118,7 @@
 - [10721 - Bar Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1662)
 - [10731 - Test](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=99999999&page=show_problem&problem=1672)
 - [10765 - Doves and bombs](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1706)
+- [10777 - God! Save me](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1718)
 - [10789 - Prime Frequency](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1730)
 - [10804 - Gopher Strategy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1745)
 - [10815 - Andy's First Dictionary](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1756)
