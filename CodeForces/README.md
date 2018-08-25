@@ -378,6 +378,7 @@
 - [837A. Text Volume](http://codeforces.com/contest/837/problem/A)
 - [837B. Flag of Berland](http://codeforces.com/contest/837/problem/B)
 - [837C. Two Seals](http://codeforces.com/contest/837/problem/C)
+- [839C. Journey](http://codeforces.com/contest/839/problem/C)
 - [842A. Kirill And The Game](http://codeforces.com/contest/842/problem/A)
 - [842B. Gleb And Pizza](http://codeforces.com/contest/842/problem/B)
 - [845A. Chess Tourney](http://codeforces.com/contest/845/problem/A)
