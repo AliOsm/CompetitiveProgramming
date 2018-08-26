@@ -30,6 +30,7 @@
 - [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture)
 - [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)
 - [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)
+- [Lazy Sorting](https://www.hackerrank.com/challenges/lazy-sorting)
 - [Little Ashish's Huge Donation](https://www.hackerrank.com/challenges/little-chammys-huge-donation)
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)
 - [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws)
