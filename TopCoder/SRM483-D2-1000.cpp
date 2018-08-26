@@ -1,6 +1,9 @@
 /*
   Idea:
-    - 
+    - Set the value of `B` to be each integer `i` in range
+      1 to `maxDen` and calculate `A` from it.
+    - To compare the exact value of `number` to the new number
+      (A/B) we can use extended division method.
 */
 
 #include <string>
