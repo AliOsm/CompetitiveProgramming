@@ -7,6 +7,7 @@
 - [SRM233-D1-250 - PipeCuts](https://community.topcoder.com/stat?c=problem_statement&pm=3994&rd=6532)
 - [SRM394-D2-1000](http://community.topcoder.com/stat?c=problem_statement&pm=8547&rd=11128)
 - [SRM458-D2-500](http://community.topcoder.com/stat?c=problem_statement&pm=10726&rd=14180&rm=&cr=14970299)
+- [SRM483-D2-1000](https://community.topcoder.com/stat?c=problem_statement&pm=11073&rd=14236)
 - [SRM502-D2-500](http://community.topcoder.com/stat?c=problem_statement&pm=11359&rd=14431)
 - [SRM536-D2-1000](https://community.topcoder.com/stat?c=problem_statement&pm=11802&rd=14728)
 - [SRM558-D1-250 - Stamp](https://community.topcoder.com/stat?c=problem_statement&pm=11835&rd=15180)
