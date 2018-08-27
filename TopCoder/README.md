@@ -5,6 +5,7 @@
 - [SRM176-D1-500](http://community.topcoder.com/stat?c=problem_statement&pm=2013)
 - [SRM223-D1-250 - QuizShow](https://community.topcoder.com/stat?c=problem_statement&pm=2989&rd=5869)
 - [SRM233-D1-250 - PipeCuts](https://community.topcoder.com/stat?c=problem_statement&pm=3994&rd=6532)
+- [SRM280-D1-500](https://community.topcoder.com/stat?c=problem_statement&pm=5936&rd=8077)
 - [SRM394-D2-1000](http://community.topcoder.com/stat?c=problem_statement&pm=8547&rd=11128)
 - [SRM458-D2-500](http://community.topcoder.com/stat?c=problem_statement&pm=10726&rd=14180&rm=&cr=14970299)
 - [SRM483-D2-1000](https://community.topcoder.com/stat?c=problem_statement&pm=11073&rd=14236)
