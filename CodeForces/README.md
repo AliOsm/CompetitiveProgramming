@@ -523,3 +523,7 @@
 - [1009A. Game Shopping](http://codeforces.com/contest/1009/problem/A)
 - [1009B. Minimum Ternary String](http://codeforces.com/contest/1009/problem/B)
 - [1009D. Relatively Prime Graph](http://codeforces.com/contest/1009/problem/D)
+- [1011A. Stages](http://codeforces.com/contest/1011/problem/B)
+- [1011B. Planning The Expedition](http://codeforces.com/contest/1011/problem/B)
+- [1011C. Fly](http://codeforces.com/contest/1011/problem/C)
+- [1011D. Rocket](http://codeforces.com/contest/1011/problem/D)
