@@ -527,3 +527,8 @@
 - [1011B. Planning The Expedition](http://codeforces.com/contest/1011/problem/B)
 - [1011C. Fly](http://codeforces.com/contest/1011/problem/C)
 - [1011D. Rocket](http://codeforces.com/contest/1011/problem/D)
+- [1015A. Points in Segments](http://codeforces.com/contest/1015/problem/A)
+- [1015B. Obtaining the String](http://codeforces.com/contest/1015/problem/B)
+- [1015C. Songs Compression](http://codeforces.com/contest/1015/problem/C)
+- [1015D. Walking Between Houses](http://codeforces.com/contest/1015/problem/D)
+- [1015E1. Stars Drawing (Easy Edition)](http://codeforces.com/contest/1015/problem/E1)
