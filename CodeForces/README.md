@@ -531,6 +531,7 @@
 - [1013B. And](http://codeforces.com/contest/1013/problem/B)
 - [1013C. Photo of The Sky](http://codeforces.com/contest/1013/problem/C)
 - [1013D. Chemical table](http://codeforces.com/contest/1013/problem/D)
+- [1013E. Hills](codeforces.com/contest/1013/problem/E)
 - [1015A. Points in Segments](http://codeforces.com/contest/1015/problem/A)
 - [1015B. Obtaining the String](http://codeforces.com/contest/1015/problem/B)
 - [1015C. Songs Compression](http://codeforces.com/contest/1015/problem/C)
