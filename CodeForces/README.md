@@ -538,3 +538,5 @@
 - [1015D. Walking Between Houses](http://codeforces.com/contest/1015/problem/D)
 - [1015E1. Stars Drawing (Easy Edition)](http://codeforces.com/contest/1015/problem/E1)
 - [1015E2. Stars Drawing (Hard Edition)](http://codeforces.com/contest/1015/problem/E2)
+- [1016A. Death Note](http://codeforces.com/contest/1016/problem/A)
+- [1016B. Segment Occurrences](http://codeforces.com/contest/1016/problem/B)
