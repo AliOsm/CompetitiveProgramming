@@ -6,6 +6,7 @@
 - [SRM223-D1-250](https://community.topcoder.com/stat?c=problem_statement&pm=2989&rd=5869)
 - [SRM233-D1-250](https://community.topcoder.com/stat?c=problem_statement&pm=3994&rd=6532)
 - [SRM280-D1-500](https://community.topcoder.com/stat?c=problem_statement&pm=5936&rd=8077)
+- [SRM308-D1-500](https://community.topcoder.com/stat?c=problem_statement&pm=6475&rd=9988)
 - [SRM319-D1-500](http://community.topcoder.com/stat?c=problem_statement&pm=6714&rd=9999)
 - [SRM335-D1-500](https://community.topcoder.com/stat?c=problem_statement&pm=7337&rd=10659)
 - [SRM394-D2-1000](http://community.topcoder.com/stat?c=problem_statement&pm=8547&rd=11128)
