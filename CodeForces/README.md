@@ -540,3 +540,5 @@
 - [1015E2. Stars Drawing (Hard Edition)](http://codeforces.com/contest/1015/problem/E2)
 - [1016A. Death Note](http://codeforces.com/contest/1016/problem/A)
 - [1016B. Segment Occurrences](http://codeforces.com/contest/1016/problem/B)
+- [1016C. Vasya And The Mushrooms](http://codeforces.com/contest/1016/problem/C)
+- [1016D. Vasya And The Matrix](http://codeforces.com/contest/1016/problem/D)
