@@ -545,3 +545,7 @@
 - [1020A. New Building for SIS](http://codeforces.com/contest/1020/problem/A)
 - [1020B. Badge](http://codeforces.com/contest/1020/problem/B)
 - [1020C. Elections](http://codeforces.com/contest/1020/problem/C)
+- [1023A. Single Wildcard Pattern Matching](http://codeforces.com/contest/1023/problem/A)
+- [1023B. Pair of Toys](http://codeforces.com/contest/1023/problem/B)
+- [1023C. Bracket Subsequence](http://codeforces.com/contest/1023/problem/C)
+- [1023D. Array Restoration](http://codeforces.com/contest/1023/problem/D)
