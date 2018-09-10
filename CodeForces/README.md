@@ -554,6 +554,8 @@
 - [1023B. Pair of Toys](http://codeforces.com/contest/1023/problem/B)
 - [1023C. Bracket Subsequence](http://codeforces.com/contest/1023/problem/C)
 - [1023D. Array Restoration](http://codeforces.com/contest/1023/problem/D)
+- [1025A. Doggo Recoloring](http://codeforces.com/contest/1025/problem/A)
+- [1025B. Weakened Common Divisor](http://codeforces.com/contest/1025/problem/B)
 - [1027A. Palindromic Twist](http://codeforces.com/contest/1027/problem/A)
 - [1027B. Numbers on the Chessboard](http://codeforces.com/contest/1027/problem/B)
 - [1027C. Minimum Value Rectangle](http://codeforces.com/contest/1027/problem/C)
