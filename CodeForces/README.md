@@ -564,3 +564,4 @@
 - [1029A. Many Equal Substrings](http://codeforces.com/contest/1029/problem/A)
 - [1029B. Creating the Contest](http://codeforces.com/contest/1029/problem/B)
 - [1029C. Maximal Intersection](http://codeforces.com/contest/1029/problem/C)
+- [1029D. Concatenated Multiples](http://codeforces.com/contest/1029/problem/D)
