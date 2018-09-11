@@ -561,3 +561,6 @@
 - [1027B. Numbers on the Chessboard](http://codeforces.com/contest/1027/problem/B)
 - [1027C. Minimum Value Rectangle](http://codeforces.com/contest/1027/problem/C)
 - [1027D. Mouse Hunt](http://codeforces.com/contest/1027/problem/D)
+- [1029A. Many Equal Substrings](http://codeforces.com/contest/1029/problem/A)
+- [1029B. Creating the Contest](http://codeforces.com/contest/1029/problem/B)
+- [1029C. Maximal Intersection](http://codeforces.com/contest/1029/problem/C)
