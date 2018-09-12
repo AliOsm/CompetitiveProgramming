@@ -13,6 +13,7 @@
 - [SRM458-D2-500](http://community.topcoder.com/stat?c=problem_statement&pm=10726&rd=14180&rm=&cr=14970299)
 - [SRM483-D2-1000](https://community.topcoder.com/stat?c=problem_statement&pm=11073&rd=14236)
 - [SRM502-D2-500](http://community.topcoder.com/stat?c=problem_statement&pm=11359&rd=14431)
+- [SRM504-D2-1000](http://community.topcoder.com/stat?c=problem_statement&pm=11348&rd=14433)
 - [SRM536-D2-1000](https://community.topcoder.com/stat?c=problem_statement&pm=11802&rd=14728)
 - [SRM558-D1-250](https://community.topcoder.com/stat?c=problem_statement&pm=11835&rd=15180)
 - [SRM619-D2-1000](http://community.topcoder.com/stat?c=problem_statement&pm=13116&rd=15852)
