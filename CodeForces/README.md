@@ -280,6 +280,7 @@
 - [672B. Different is Good](http://codeforces.com/problemset/problem/672/B)
 - [673A. Bear and Game](http://codeforces.com/problemset/problem/673/A)
 - [675A. Infinite Sequence](http://codeforces.com/problemset/problem/675/A)
+- [678E. Another Sith Tournament](http://codeforces.com/contest/678/problem/E)
 - [697A. Pineapple Incident](http://codeforces.com/contest/697/problem/A)
 - [698A. Vacations](http://codeforces.com/contest/698/problem/A)
 - [690D1. The Wall (easy)](http://codeforces.com/problemset/problem/690/D1)
