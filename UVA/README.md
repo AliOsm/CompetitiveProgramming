@@ -83,6 +83,7 @@
 - [10131 - Is Bigger Smarter?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1072)
 - [10142 - Australian Voting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1083)
 - [10169 - Urn-ball Probabilities!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1110)
+- [10218 - Let's Dance !!!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1159)
 - [10222 - Decode the Mad man](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1163)
 - [10226 - Hardwood Species](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167)
 - [10235 - Simply Emirp](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1176)
