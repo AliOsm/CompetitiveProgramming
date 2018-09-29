@@ -20,3 +20,6 @@
 - [79. Cats and Dogs](https://csacademy.com/contest/round-79/task/cats-and-dogs/)
 - [80. Digits Permutation](https://csacademy.com/contest/round-80/task/ioi-selection/)
 - [80. IOI Selection](https://csacademy.com/contest/round-80/task/digits-permutation/)
+- [82. City Break](https://csacademy.com/contest/round-82/task/city-break/)
+- [83. Smallest Missing Numbers](https://csacademy.com/contest/round-83/task/smallest-missing-numbers/)
+- [86. Cookie Clicker](https://csacademy.com/contest/round-86/task/cookie-clicker/)
