@@ -1,3 +1,18 @@
+/*
+  Idea:
+    - Precalculate the probability of getting damage `d`
+      from each attack, this can be done by calculating
+      the probability using brute force.
+    - Then using dynamic programming we can calculate the
+      probability of `A` to win.
+    - dp[rema][remb][p] represents:
+      - rema: the remaining health of `A`
+      - remb: the remaining health of `B`
+      - p: the current player
+    - In each turn in the dp we try all attacks using
+      all possible damages.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
