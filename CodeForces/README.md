@@ -577,3 +577,6 @@
 - [1077D. Cutting Out](http://codeforces.com/contest/1077/problem/D)
 - [1079A. Kitchen Utensils](http://codeforces.com/contest/1079/problem/A)
 - [1079B. Personalized Cup](http://codeforces.com/contest/1079/problem/B)
+- [1079C. Playing Piano](http://codeforces.com/contest/1079/problem/C)
+- [1079D. Barcelonian Distance](http://codeforces.com/contest/1079/problem/D)
+- [1079E. The Unbearable Lightness of Weights](http://codeforces.com/contest/1079/problem/E)
