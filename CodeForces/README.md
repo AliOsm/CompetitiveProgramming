@@ -575,6 +575,8 @@
 - [1077B. Disturbed People](http://codeforces.com/contest/1077/problem/B)
 - [1077C. Good Array](http://codeforces.com/contest/1077/problem/C)
 - [1077D. Cutting Out](http://codeforces.com/contest/1077/problem/D)
+- [1077E. Thematic Contests](http://codeforces.com/contest/1077/problem/E)
+- [1077F1. Pictures with Kittens (easy version)](http://codeforces.com/contest/1077/problem/F1)
 - [1079A. Kitchen Utensils](http://codeforces.com/contest/1079/problem/A)
 - [1079B. Personalized Cup](http://codeforces.com/contest/1079/problem/B)
 - [1079C. Playing Piano](http://codeforces.com/contest/1079/problem/C)
