@@ -421,6 +421,7 @@
 - [908A. New Year and Counting Cards](http://codeforces.com/contest/908/problem/A)
 - [908B. New Year and Buggy Bot](http://codeforces.com/contest/908/problem/B)
 - [909D. Colorful Points](http://codeforces.com/problemset/problem/909/D)
+- [911G. Mass Change Queries](https://codeforces.com/contest/911/problem/G)
 - [913A - Modular Exponentiation](http://codeforces.com/problemset/problem/913/A)
 - [913B. Christmas Spruce](http://codeforces.com/problemset/problem/913/B)
 - [915A. Garden](http://codeforces.com/problemset/problem/915/A)
