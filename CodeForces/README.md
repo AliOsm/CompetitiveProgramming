@@ -140,6 +140,7 @@
 - [304A. Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)
 - [313A. Ilya and Bank Account](http://codeforces.com/contest/313/problem/A)
 - [313B. Ilya and Queries](http://codeforces.com/problemset/problem/313/B)
+- [313D. Ilya and Roads](https://codeforces.com/contest/313/problem/D)
 - [330A. Cakeminator](http://codeforces.com/problemset/problem/330/A)
 - [331C1. The Great Julya Calendar](http://codeforces.com/problemset/problem/331/C1)
 - [337A. Puzzles](http://codeforces.com/contest/337/problem/A)
