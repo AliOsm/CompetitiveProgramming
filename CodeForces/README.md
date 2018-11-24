@@ -584,3 +584,6 @@
 - [1079C. Playing Piano](http://codeforces.com/contest/1079/problem/C)
 - [1079D. Barcelonian Distance](http://codeforces.com/contest/1079/problem/D)
 - [1079E. The Unbearable Lightness of Weights](http://codeforces.com/contest/1079/problem/E)
+- [1080A. Petya and Origami](https://codeforces.com/contest/1080/problem/A)
+- [1080B. Margarite and the best present](https://codeforces.com/contest/1080/problem/B)
+- [1080C. Masha and two friends](https://codeforces.com/contest/1080/problem/C)
