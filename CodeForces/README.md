@@ -551,6 +551,7 @@
 - [1016B. Segment Occurrences](http://codeforces.com/contest/1016/problem/B)
 - [1016C. Vasya And The Mushrooms](http://codeforces.com/contest/1016/problem/C)
 - [1016D. Vasya And The Matrix](http://codeforces.com/contest/1016/problem/D)
+- [1017D. The Wu](https://codeforces.com/contest/1017/problem/D)
 - [1020A. New Building for SIS](http://codeforces.com/contest/1020/problem/A)
 - [1020B. Badge](http://codeforces.com/contest/1020/problem/B)
 - [1020C. Elections](http://codeforces.com/contest/1020/problem/C)
