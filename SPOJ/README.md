@@ -46,6 +46,7 @@
 - [MATCHING - Fast Maximum Matching](http://www.spoj.com/problems/MATCHING/)
 - [MBLAST - BLAST](http://www.spoj.com/problems/MBLAST/)
 - [MC - Minimum Cost](http://www.spoj.com/problems/MC/)
+- [MSE07E - Showstopper](https://www.spoj.com/problems/MSE07E/)
 - [MULTQ3 - Multiples of 3](http://www.spoj.com/problems/MULTQ3/)
 - [NDIV - n-divisors](http://www.spoj.com/problems/NDIV/)
 - [NSTEPS - Number Steps](http://www.spoj.com/problems/NSTEPS/)
