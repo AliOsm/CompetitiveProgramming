@@ -1,26 +1,25 @@
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 
 using namespace std;
 
 int const N = 1e5 + 1;
-long long arr[N];
+int n;
+set<long long> st;
 
 int main() {
-    int n;
-    cin >> n;
+  scanf("%d", &n);
 
-    arr[0] = 0;
-    for(int i = 1; i < N; i++)
-        arr[i] = arr[i - 1] + i;
-    
-    for(int i = 1; i < N; i++)
-        if(binary_search(arr + 1, arr + N, n - arr[i])) {
-            cout << "YES" << endl;
-            return 0;
-        }
-        
-    cout << "NO" << endl;
-    
-    return 0;
+  for(int i = 1; i < N; ++i)
+    st.insert(1ll * i * (i + 1) / 2);
+  
+  for(set<long long>::iterator it = st.begin(); it != st.end(); ++it) {
+    if(n - (*it) > 0 && st.count(n - (*it))) {
+      puts("YES");
+      return 0;
+    }
+  }
+
+  puts("NO");
+
+  return 0;
 }
