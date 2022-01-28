@@ -36,6 +36,7 @@
 - [ETF - Euler Totient Function](http://www.spoj.com/problems/ETF/)
 - [EZDIJKST - Easy Dijkstra Problem](http://www.spoj.com/problems/EZDIJKST/)
 - [FACTCG2 - Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
+- [FARIDA - Princess Farida](https://www.spoj.com/problems/FARIDA/)
 - [GSS1 - Can you answer these queries I](http://www.spoj.com/problems/GSS1/)
 - [GSS4 - Can you answer these queries IV](http://www.spoj.com/problems/GSS4/)
 - [HISTOGRA - Largest Rectangle in a Histogram](https://www.spoj.com/problems/HISTOGRA/)
