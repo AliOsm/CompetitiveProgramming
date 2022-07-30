@@ -13,58 +13,66 @@
 using namespace std;
 
 int const N = 21;
-int n, m;
-long long a[N][N], k, res;
-vector<int> all[2];
-map<pair<int, int>, map<long long, int> > mp;
+int n, m, half;
+long long k, g[N][N], sol;
+map<long long, int> solutions[N][N];
 
-void rec(int idx, int msk, int end, int r1, int r2, int cur) {
-  if(r1 < 0 || r2 < 0)
-    return;
+void firstHalf(int i, int j, long long val, int cnt) {
+	val ^= g[i][j];
 
-  if(idx == end) {
-    all[cur].push_back(msk);
-    return;
-  }
+	if (cnt == half) {
+		++solutions[i][j][val];
+		return;
+	}
 
-  rec(idx + 1, msk, end, r1 - 1, r2, cur);
-  rec(idx + 1, msk | (1 << idx), end, r1, r2 - 1, cur);
+	if(i + 1 < n) {
+		firstHalf(i + 1, j, val, cnt + 1);
+	}
+
+	if(j + 1 < m) {
+		firstHalf(i, j + 1, val, cnt + 1);
+	}
 }
 
-void go(int i, int j, int di, int dj, int msk, int idx, int end, long long sum, bool ok) {
-  if(idx == end) {
-    if(!ok)
-      ++mp[{i, j}][sum ^ a[i][j]];
-    else
-      res += mp[{i, j}][sum ^ k];
+void secondHalf(int i, int j, long long val, int cnt) {
+	if(cnt == (m + n - 2) - half) {
+		if(solutions[i][j].count(val ^ k)) {
+			sol += solutions[i][j][val ^ k];
+		}
 
-    return;
-  }
+		return;
+	}
 
-  if(((msk >> idx) & 1) == 0)
-    go(i + di, j, di, dj, msk, idx + 1, end, sum ^ a[i][j], ok);
-  else
-    go(i, j + dj, di, dj, msk, idx + 1, end, sum ^ a[i][j], ok);
+	val ^= g[i][j];
+
+	if(i > 0) {
+		secondHalf(i - 1, j, val, cnt + 1);
+	}
+
+	if(j > 0) {
+		secondHalf(i, j - 1, val, cnt + 1);
+	}
 }
 
 int main() {
-  scanf("%d %d %lld", &n, &m, &k);
-  for(int i = 0; i < n; ++i)
-    for(int j = 0; j < m; ++j)
-      scanf("%lld", &a[i][j]);
+#ifndef ONLINE_JUDGE
+	freopen("input.in", "r", stdin);
+#endif
 
-  int spl = (n-1 + m-1) / 2;
+	scanf("%d %d %lld", &n, &m, &k);
 
-  rec(0, 0, spl, n - 1, m - 1, 0);
-  rec(0, 0, (n-1 + m-1) - spl, n - 1, m - 1, 1);
+	for(int i = 0; i < n; ++i) {
+		for(int j = 0; j < m; ++j) {
+			scanf("%lld", &g[i][j]);
+		}
+	}
 
-  for(int i = 0; i < all[0].size(); ++i)
-    go(0, 0, 1, 1, all[0][i], 0, spl, 0, false);
+	half = (n + m - 2) / 2;
 
-  for(int i = 0; i < all[1].size(); ++i)
-    go(n - 1, m - 1, -1, -1, all[1][i], 0, ((n-1 + m-1) - spl), 0, true);
+	firstHalf(0, 0, 0, 0);
+	secondHalf(n - 1, m - 1, 0, 0);
 
-  printf("%lld\n", res);
+	printf("%lld\n", sol);
 
-  return 0;
+	return 0;
 }
