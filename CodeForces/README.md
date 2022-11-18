@@ -227,6 +227,7 @@
 - [469A. I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A)
 - [469D. Two Sets](http://codeforces.com/contest/469/problem/D)
 - [472A. Design Tutorial: Learn from Math](http://codeforces.com/problemset/problem/472/A)
+- [474b. Worms](http://codeforces.com/contest/474/problem/B)
 - [474D. Flowers](http://codeforces.com/contest/474/problem/D)
 - [476A. Dreamoon and Stairs](http://codeforces.com/contest/476/problem/A)
 - [476B. Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B)
