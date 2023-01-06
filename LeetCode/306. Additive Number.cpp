@@ -1,7 +1,5 @@
 class Solution {
     bool isAdditiveNumberRec(string num, int idx, long long prev1, long long prev2, int cnt) {
-        cout << num << ' ' << idx << ' ' << prev1 << ' ' << prev2 << endl;
-
         if(idx > num.length()) {
             return false;
         }
