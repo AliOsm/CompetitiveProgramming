@@ -4,9 +4,9 @@ class Solution {
             return false;
         }
 
-        if(idx == num.length() && prev1 != -1 && prev2 != -1 && cnt > 2) {
+        if(idx == num.length() && cnt > 2) {
             return true;
-        } else if (idx == num.length() && (prev1 == -1 || prev2 == -1 || cnt <= 2)) {
+        } else if (idx == num.length() && cnt <= 2) {
             return false;
         }
 
